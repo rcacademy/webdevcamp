@@ -1,39 +1,3 @@
-# RC Academy Curriculum
-
-
-# Links & Things
-
-Side effects https://en.wikipedia.org/wiki/Side_effect_(computer_science)
-
-Implicit vs. Explicit
-
-Implicit returns
-http://prepwork.appacademy.io/mini-curriculum/
-http://prepwork.appacademy.io/mini-curriculum/iteration/
-http://prepwork.appacademy.io/mini-curriculum/methods/
-
-## Getting Started
-
-Welcome to RC Academy
-
-### A Note on Asking for Help
-
-Please do it. 
-
-### RC Academy Slack
-
-The Slack group is our online chat for the group. You can use this to interact with other students and the teachers.
-
-* Computer Science Fundamentals
-* Front-End Development with HTML5 & CSS3
-* Back-End Development with Ruby
-* Using Ruby on Rails
-* Front-End Javascript with jQuery & AngularJS
-* Back-End Javascript with Node.js
-* Extending Node.js with Express
-* Persisting Data with Databases
-* Version Control with Git & Github
-
 ## A. Introduction to Front End Development
 * A0. Setting up your front-end development environment
 * A1. HTML
@@ -134,13 +98,23 @@ The Slack group is our online chat for the group. You can use this to interact w
 	* Introduction to Authentication
 	* Add authentication to Event Calendar app
 * A13. Git & Github
-*
-	
 
-	
-	 
-	 
 
+# Buzzword Dictionary
+
+(!TODO: alpha these)
+
+* **Refactor**
+* DSL - domain-specific language
+* ERb - embedded ruby
+* MVC - model, view, controller
+* Rails - a popular framework built on Ruby for building applications
+* Frontend
+* Backend
+* MongoDB
+* jQuery
+* DOM - document object model
+* API
 
 
 
@@ -246,15 +220,6 @@ Lorem ipsum
 
 Mongoose for Node.js
 
-## Express Framework
-
-## Asynchronous Programming
-
-## Kraken npm module ?????
-
-## Drywall npm module ????
-
-## Bcrypt encryption
 
 ## User Authentication (passport npm module)
 
@@ -262,10 +227,7 @@ Mongoose for Node.js
 
 ## HTTP/REST
 
-## Test Driven Development
-
-## 
-
+## Test Driven Development 
 
 ## Version Control
 * Working in teams
@@ -274,9 +236,15 @@ Mongoose for Node.js
 * [Git Reference](http://git-scm.com/book/en/v2)
 
 ## Deployment
-
+* Heroku
 
 # Projects
+* SocketIO Chat App
+* Twitter Clone
+* Yelp Clone
+* Asteroids
+* Snake or Tron Lightbike
+* Sudoku - is this doable?
 * HTTP Server
 * Express website with contact form
 * User login system
@@ -287,8 +255,3 @@ Mongoose for Node.js
 * Directory of Teachers
 * Portfolio App
 * eLearning System
-
-
-
-
-
