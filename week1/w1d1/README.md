@@ -20,12 +20,7 @@ You will need to use a code editor to get started. We're going to be using [Atom
   
 1. Download Atom.
 2. For Mac users, unzip the download and move the Atom icon into your `Applications` folder.
-  
-####  
 
-
-
-## Exercises
 
 ### Introduction to HTML
 HTML stands for **hypertext markup language**. It was originally created by academics to add formatting to their published papers in the early days of the web. We still use HTML to this day but a lot has changed since the first academic paper was published with what we could call HTML 1.0.
@@ -65,5 +60,20 @@ Comments start with `<!--` and end with `-->`. You will notice that your code ed
     The content of your page
   </body>
 </html>
-
 ````
+
+#### Basic Tags
+
+#### Paragraph <p>
+  
+#### Line Break <br>
+
+#### Headline Tags
+Header tags include `<h1>`, `<h2>`, `<h3>`, `<h4>` and `<h5>`. These are used for headlines with `h1` being the largest and `h5` being the smallest.
+
+# h1
+## h2
+### h3
+#### h4
+##### h5
+
