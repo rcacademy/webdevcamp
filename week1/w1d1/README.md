@@ -108,6 +108,7 @@ The `<img>` tag allows you to define an image that will show up in your document
 ```html
 <img src = "linktoimage.png" >
 ```
+<img src = "./delorean.gif" >
 
 #### Links
 
@@ -138,3 +139,10 @@ Lists are extremely important in displaying content and will be extremely handy 
 #### Advanced Forms: Dropdowns, Checkboxes and Radio Buttons
 ```html
 ```
+
+
+### Table Exercise
+Take country data and put it into a table.
+
+### Form Exercise
+Create a form with labels that allows us to enter our name and address.
