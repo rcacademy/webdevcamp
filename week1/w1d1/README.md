@@ -103,10 +103,10 @@ You can use `<strong>` or `<b>` tags to make text bold and `<i>` to make text it
 
 #### Adding Images to Your Document
 
-The `<img>` tag allows you to define an image that will show up in your document. **This tag does not have a closing tag**. You will notice that some tags do not close with a tag that contains a `/`. You will have to memorize which ones do not have this ending tag. 
+The `<img>` tag allows you to define an image that will show up in your document. **This tag does not have a closing tag**. You will notice that some tags do not close with a tag that contains a `/`. You will have to memorize which ones do not have this ending tag.  This tag supports gif, jpg and png images across all browsers.
 
 ```html
-<img src = "linktoimage.png" >
+<img src = "link_to_image_of_delorean.gif" >
 ```
 <img src = "./delorean.gif" >
 
