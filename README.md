@@ -29,7 +29,7 @@ Please do!
 * Installfest
 
 
-## Week 1: HTML/CSS
+## [Week 1: HTML/CSS](./week1)
 
 ### week 1 day 1: Developer Culture & Resources - HTML
 
