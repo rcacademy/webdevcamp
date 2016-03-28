@@ -1,5 +1,7 @@
 # Week 12
 
+**[Staying Relevant as a Programmer](https://www.youtube.com/watch?v=ZZUY37RQS-k)** by FunFunFunction
+
 ### week 12 day 1: Github Profiles & Github Pages
 
 ### week 12 day 2: Developer Culture
