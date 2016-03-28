@@ -13,7 +13,9 @@ Add TAs and instructors here
 
 Slack
 
-Forum? Piazza? https://piazza.com/
+Office Hours  
+
+Forum? Discourse?
 
 ## Resources
 * Buzzword Dictionary
