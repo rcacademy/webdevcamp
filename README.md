@@ -9,6 +9,11 @@ Welcome to RC Academy
 
 Please do!
 
+Add TAs and instructors here
+
+Slack
+
+Forum? Piazza? https://piazza.com/
 
 ## Resources
 * Buzzword Dictionary
