@@ -34,14 +34,14 @@ Thankfully we are now on `HTML 5.0`. You don't need to refer to it as such but 5
 
 #### HTML Boilerplate
 
-  <!DOCTYPE html>
-  <html>
-    <head>
-      <title>Title of your page</title>
-    </head>
-    <body>
-      The content of your page
-    </body>
-  </html>
+```html<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of your page</title>
+  </head>
+  <body>
+    The content of your page
+  </body>
+</html>```
 
 
