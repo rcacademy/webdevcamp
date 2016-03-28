@@ -34,7 +34,8 @@ Thankfully we are now on `HTML 5.0`. You don't need to refer to it as such but 5
 
 #### HTML Boilerplate
 
-```html<!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html>
   <head>
     <title>Title of your page</title>
@@ -42,6 +43,7 @@ Thankfully we are now on `HTML 5.0`. You don't need to refer to it as such but 5
   <body>
     The content of your page
   </body>
-</html>```
+</html>
+```
 
 
