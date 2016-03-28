@@ -4,7 +4,7 @@
 
 #### Pre-Class Readings
 1. [Teach Yourself Programming in 10 Years](http://norvig.com/21-days.html)
-2. **[Programmers are herd animals](https://www.youtube.com/watch?v=lrf6xuFq1Ms)** by FunFunFunction (mpj)
+2. [Programmers are herd animals](https://www.youtube.com/watch?v=lrf6xuFq1Ms) by FunFunFunction (mpj)
 
 
 # In Class
