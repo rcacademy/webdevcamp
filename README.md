@@ -98,7 +98,7 @@ Please do!
 * Events & Event Listeners
 *** JAVASCRIPT PROJECT**
 
-### week 3 day 3: JQuery
+### week 2 day 3: JQuery
 * What is it, why use it?
 * Selecting with JQuery
 * Attr & Val
@@ -108,7 +108,11 @@ Please do!
 * **PROJECT: To Do List App** (Todo MVC)
 * **PROJECT: Make patatap.com**
 
-## Week 3: Backend Basics
+## Week 3: JQuery & Intermediate Javascript
+
+
+
+## Week 4: Backend Basics
 
 ### prepwork
 
@@ -116,13 +120,13 @@ Please do!
 * Download an IDE (Atom, Sublime)
 * Introduction to Command Line (!TODO: look into what we need to do for windows users)
 
-### week 3 day 1: Introduction to Ruby
+### week 4 day 1: Introduction to Ruby
 
 * What is Ruby
 * Using Ruby with Cloud9
 * **Ruby Exercise**
 
-### week 3 day 2: Using the Ruby Language
+### week 4 day 2: Using the Ruby Language
 !TODO: look at the intro to ruby book
 
 #### Resources
@@ -150,20 +154,20 @@ Please do!
 * Arrays
 * Objects
 
-### week 3 day 3: Ruby Exercises / Koans
+### week 4 day 3: Ruby Exercises / Koans
 * Projects that exercise loops, etc.
 * Project: Light bike or snake?
 
 
-## Week 4: Intermediate Ruby & Introduction to Rails
+## Week 5: Intermediate Ruby & Introduction to Rails
 
-### week 4 day 1: Projects
+### week 5 day 1: Projects
 
 * Introduction to Ruby Gems
 * Bundler
 * Installing & using Ruby Gems
 
-### week 4 day 2: Rails
+### week 5 day 2: Rails
 * Introduction to web servers
 * What is Rails
 	* MVC: Model, View, Controller
@@ -194,43 +198,27 @@ Navigate to `http://localhost:3000/say/hello` and see that we get an error.
 	
 
 
-### week 4 day 3: Pinterest Clone
+### week 5 day 3: Pinterest Clone
 * Build Pinterest
 
 
-## Week 5
+## Week 6
 
-### week 5 day 1: Build your own Blog Part 1
+### week 6 day 1: Build your own Blog Part 1
 * Create your own blog
 * Start with UI in HTML
 * Exercise: draw it out
 * Starting the blog, adding posts with tags
 * Saving posts to a database
 
-### week 5 day 2: Build your own Blog Part 2
+### week 6 day 2: Build your own Blog Part 2
 * Adding users
 * Adding comments
 
-### week 5 day 3: Deploying your Blog
+### week 6 day 3: Deploying your Blog
 * Deployment & how web hosting works
 	* Many options, we'll be using Heroku and Cloud9
 
-## Week 6: E-Commerce Shopping Cart Project
-
-### week 6 day 1: Shopping Cart Project Part 1
-* **Project: Rails Shopping Cart**
-* **Exercise: Come up with what the app looks like on paper**
-	* Catalog Page
-	* Cart Page
-	* Checkout Page (shipping & payment)
-	* Receipt Page
-	* Login page
-	* Create a product
-	* Show orders
-
-### week 6 day 2: Shopping Cart Project Part 2
-
-### week 6 day 3
 
 ## Week 7: Twitter Clone
 
@@ -248,7 +236,7 @@ Navigate to `http://localhost:3000/say/hello` and see that we get an error.
 
 ### week 8 day 3
 
-## Week 9: Airbnb or Yelp Clone
+## Week 9: Yelp App
 
 ### week 9 day 1
 
@@ -256,9 +244,9 @@ Navigate to `http://localhost:3000/say/hello` and see that we get an error.
 
 ### week 9 day 3
 
-## Week 10: Wide World of Development
+## Week 11: Wide World of Development
 
-### week 10 day 1: Exploring more Backend Languages: Node.js
+### week 11 day 1: Exploring more Backend Languages: Node.js
 * What is Node?
 * Using Node with Cloud9
 * Node Exercise
@@ -267,15 +255,7 @@ Navigate to `http://localhost:3000/say/hello` and see that we get an error.
 * Installing NPM modules
 * Using Express to build an API
 
-### week 10 day 2: Using Express
-
-### week 10 day 3
-
-## Week 11: Final Project
-
-### week 11 day 1: 
-
-### week 11 day 2: 
+### week 11 day 2: Using Express
 
 ### week 11 day 3: 
 
