@@ -19,7 +19,7 @@ Forum? Discourse?
 
 ## Resources
 * Buzzword Dictionary
-* [More resources](./z-resources) if you get stuck!
+* [More resources](./resources) to help you on your journey
 
 ## Week by Week
 
@@ -59,15 +59,15 @@ Forum? Discourse?
   1. Week 9 Day 1
   2. Week 9 Day 2
   3. Week 9 Day 3
-10. [Week 10: TBA](./week10)
+10. [Week 10: TBA](./zweek10)
   1. Week 10 Day 1
   2. Week 10 Day 2
   3. Week 10 Day 3
-11. [Week 11: Wide World of Development](./week11)
+11. [Week 11: Wide World of Development](./zweek11)
   1. Week 11 Day 1
   2. Week 11 Day 2
   3. Week 11 Day 3
-12. [Week 12: Career and Professional Readiness](./week12)
+12. [Week 12: Career and Professional Readiness](./zweek12)
   1. Week 12 Day 1
   2. Week 12 Day 2
   3. Week 12 Day 3
