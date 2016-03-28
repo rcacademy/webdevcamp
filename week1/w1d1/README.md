@@ -65,8 +65,14 @@ Comments start with `<!--` and end with `-->`. You will notice that your code ed
 #### Basic Tags
 
 #### Paragraph <p>
+```html
+<p>A paragraph of text can be displayed between these tags</p>
+```
   
 #### Line Break <br>
+```html
+<p>We can add a line break in the middle of a paragraphy by adding <br > into it and it will insert a break in the paragraph.</p>
+```
 
 #### Headline Tags
 Header tags include `<h1>`, `<h2>`, `<h3>`, `<h4>` and `<h5>`. These are used for headlines with `h1` being the largest and `h5` being the smallest.
