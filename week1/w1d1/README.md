@@ -86,12 +86,6 @@ Header tags include `<h1>`, `<h2>`, `<h3>`, `<h4>` and `<h5>`. These are used fo
 <h5>Smallest headline</h5>
 ````
 
-<h1>Largest headline</h1>
-<h2>Second largest headline</h2>
-<h3>Third largest headline</h3>
-<h4>Fourth largest headline</h4>
-<h5>Smallest headline</h5>
-
 #### Emphasis & Formatting
 You can use `<strong>` or `<b>` tags to make text bold and `<i>` to make text italicized. There will be better ways to do this later but for now, you can use these to add emphasis to your content.
   
