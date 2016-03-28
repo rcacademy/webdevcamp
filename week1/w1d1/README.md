@@ -13,7 +13,11 @@
 
 # In Class
 
-## Setting up your front-end development environment
+## Hour 1: Tool Map & Frontend & Backend development
+
+## Hour 2-3: Getting Started & Introduction to HTML
+
+### Setting up your front-end development environment
 
 #### Code editor
 You will need to use a code editor to get started. We're going to be using [Atom](https://atom.io) right now but there are many options out there.
