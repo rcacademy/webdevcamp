@@ -11,11 +11,7 @@
 **[Programmers are herd animals](https://www.youtube.com/watch?v=lrf6xuFq1Ms)** by FunFunFunction (mpj)
 
 
-### Exercises
-
-
-
-### Tutorial
+# In Class
 
 ## Setting up your front-end development environment
 
@@ -26,3 +22,7 @@ You will need to use a code editor to get started. We're going to be using [Atom
 2. For Mac users, unzip the download and move the Atom icon into your `Applications` folder.
   
 ####  
+
+
+
+### Exercises
