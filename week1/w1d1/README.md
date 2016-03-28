@@ -97,7 +97,15 @@ You can use `<strong>` or `<b>` tags to make text bold and `<i>` to make text it
 
 #### Image Tags
 
+```html
+<img src = "linktoimage.png" >
+```
+
 #### Links
+
+```html
+<p>Check out this <a href = "http://colinloretz.com">new blog</a> I started. This code will make the words "new blog" into a link to http://colinloretz.com.</p>
+```
 
 #### Lists
 
