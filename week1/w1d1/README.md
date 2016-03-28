@@ -15,6 +15,8 @@
 
 ## Hour 1: Tool Map & Frontend & Backend development
 
+TODO: Add content for this!
+
 ## Hour 2-3: Getting Started & Introduction to HTML
 
 ### Setting up your front-end development environment
