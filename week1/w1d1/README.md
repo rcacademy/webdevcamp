@@ -34,7 +34,7 @@ Thankfully we are now on `HTML 5.0`. You don't need to refer to it as such but 5
 
 #### HTML Boilerplate
 
-The following code is the HTML boilerplate. This will be used in every HTML document you create. It is composed of the `DOCTYPE`, `<html>`, `<head>`, `<title>`, and `<body>` tags.
+The following code is the HTML boilerplate. This will be used in every HTML document you create. It is composed of the `DOCTYPE`, `<html>`, `<head>`, `<title>`, and `<body>` tags. These tags will appear highlighted in your code editor. We'll learn more about tags shortly.
 
 ```html
 <!DOCTYPE html>
@@ -52,7 +52,7 @@ The following code is the HTML boilerplate. This will be used in every HTML docu
 
 As you write HTML, you can add comments in the code for yourself. It is important to note that if you publish a website with comments in the HTML, they are publicly available for others to read so be sure not to include any passwords, other sensitive information or anything you wouldn't want others to see, notes about a client/customer for example.
 
-Comments start with `<!--` and end with `-->`.
+Comments start with `<!--` and end with `-->`. You will notice that your code editor is also going to highlight them differently than the rest of your HTML code.
 
 ```html
 <!DOCTYPE html>
