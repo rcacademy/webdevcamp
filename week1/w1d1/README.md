@@ -66,17 +66,15 @@ Comments start with `<!--` and end with `-->`. You will notice that your code ed
 HTML has a lot of different tags. We will cover the most common ones here but you can also see a full list of them at [W3Schools](http://www.w3schools.com/tags/).
 
 #### Paragraph <p>
+  
+The most basic tag is the paragraph `<p>` tag. You guessed it! It lets us create paragraphs in our document. This tag requires that you open it with `<p>` and close it with `</p>` at the end of the paragraph. There are a few  
+  
 ```html
 <p>A paragraph of text can be displayed between these tags</p>
 ```
-  
-#### Line Break <br>
-```html
-<p>We can add a line break in the middle of a paragraphy by adding <br > into it and it will insert a break in the paragraph.</p>
-```
 
 #### Headline Tags
-Header tags include `<h1>`, `<h2>`, `<h3>`, `<h4>` and `<h5>`. These are used for headlines with `h1` being the largest and `h5` being the smallest.
+Headline tags include `<h1>`, `<h2>`, `<h3>`, `<h4>` and `<h5>`. These are used for headlines with `h1` being the largest and `h5` being the smallest. Headline tags also require that you end the headline with the corresponding ending tag, as you will see in the example below.
 
 ```html
 <h1>Largest headline</h1>
@@ -85,6 +83,14 @@ Header tags include `<h1>`, `<h2>`, `<h3>`, `<h4>` and `<h5>`. These are used fo
 <h4>Fourth largest headline</h4>
 <h5>Smallest headline</h5>
 ````
+
+#### Line Break <br>
+
+Adds a line break in the middle of your content. This tag **does not** have an ending tag. It only consists of `<br>`.
+
+```html
+<p>We can add a line break in the middle of a paragraphy by adding <br > into it and it will insert a break in the paragraph.</p>
+```
 
 #### Emphasis & Formatting
 You can use `<strong>` or `<b>` tags to make text bold and `<i>` to make text italicized. There will be better ways to do this later but for now, you can use these to add emphasis to your content.
@@ -96,6 +102,8 @@ You can use `<strong>` or `<b>` tags to make text bold and `<i>` to make text it
 <p>This is some <b>bold</b> text next to some <i>italicized</i> text inside of a paragraph.</p>
 
 #### Adding Images to Your Document
+
+The `<img>` tag allows you to define an image that will show up in your document. **This tag does not have a closing tag**. You will notice that some tags do not close with a tag that contains a `/`. You will have to memorize which ones do not have this ending tag. 
 
 ```html
 <img src = "linktoimage.png" >
@@ -110,13 +118,23 @@ You can use `<strong>` or `<b>` tags to make text bold and `<i>` to make text it
 <p>Check out this <a href = "http://colinloretz.com">new blog</a> I started. This code will make the words "new blog" into a link to http://colinloretz.com.</p>
 
 #### Lists
+Lists are extremely important in displaying content and will be extremely handy for building more complex websites in the future as you develop new skills.
 
-
+```html
+```
 
 #### Divs & Spans
+```html
+```
 
 #### Tables
+```html
+```
 
 #### Forms
+```html
+```
 
 #### Advanced Forms: Dropdowns, Checkboxes and Radio Buttons
+```html
+```
