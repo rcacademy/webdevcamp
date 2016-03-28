@@ -93,7 +93,7 @@ You can use `<strong>` or `<b>` tags to make text bold and `<i>` to make text it
 <p>This is some <b>bold</b> text next to some <i>italicized</i> text inside of a paragraph.</p>
 ```  
 
-> <p>This is some **bold** text next to some _italicized_ text inside of a paragraph.</p>
+<p>This is some **bold** text next to some _italicized_ text inside of a paragraph.</p>
 
 #### Image Tags
 
