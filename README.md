@@ -10,6 +10,9 @@ Welcome to RC Academy
 Please do!
 
 
+## Resources
+Check out [these resources](./z-resources) if you get stuck.
+
 ## Week by Week
 
 1. [Week 1: HTML/CSS](./week1)
@@ -60,6 +63,5 @@ Please do!
   1. Week 12 Day 1
   2. Week 12 Day 2
   3. Week 12 Day 3
-13. [Resources](./z-resources)
 
 
