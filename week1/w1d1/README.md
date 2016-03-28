@@ -34,6 +34,8 @@ Thankfully we are now on `HTML 5.0`. You don't need to refer to it as such but 5
 
 #### HTML Boilerplate
 
+The following code is the HTML boilerplate. This will be used in every HTML document you create. It is composed of the `DOCTYPE`, `<html>`, `<head>`, `<title>`, and `<body>` tags.
+
 ```html
 <!DOCTYPE html>
 <html>
