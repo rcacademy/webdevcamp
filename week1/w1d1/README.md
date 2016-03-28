@@ -50,7 +50,7 @@ The following code is the HTML boilerplate. This will be used in every HTML docu
 
 #### HTML Comments
 
-As you write HTML, you can add comments in the code for yourself. It is important to note that if you publish a website with comments in the HTML, they are publicly available for others to read so be sure not to include any passwords, other sensitive information or anything you wouldn't want others to see, notes about a client/customer for example.
+As you write HTML, you can add comments in the code for yourself. It is important to note that if you publish a website with comments in the HTML, they are publicly available for others to read so be sure not to include any passwords, other sensitive information or anything you wouldn't want others to see.
 
 Comments start with `<!--` and end with `-->`. You will notice that your code editor is also going to highlight them differently than the rest of your HTML code.
 
