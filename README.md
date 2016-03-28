@@ -17,9 +17,9 @@ Please do!
 ## Week by Week
 
 1. [Week 1: HTML/CSS](./week1)
-  1. Week 1 Day 1
-  2. Week 1 Day 2
-  3. Week 1 Day 3
+  1. [Week 1 Day 1](./week1/w1d1)
+  2. [Week 1 Day 2](./week1/w1d2)
+  3. [Week 1 Day 3](./week1/w1d3)
 2. [Week 2: Bootstrap & Adding interactivity with Javascript](./week2)
   1. Week 2 Day 1
   2. Week 2 Day 2
