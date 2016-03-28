@@ -48,4 +48,22 @@ The following code is the HTML boilerplate. This will be used in every HTML docu
 </html>
 ```
 
+#### HTML Comments
 
+As you write HTML, you can add comments in the code for yourself. It is important to note that if you publish a website with comments in the HTML, they are publicly available for others to read so be sure not to include any passwords, other sensitive information or anything you wouldn't want others to see, notes about a client/customer for example.
+
+Comments start with `<!--` and end with `-->`.
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of your page</title>
+  </head>
+  <body>
+    <!-- This is a comment, it can only be seen if you select "View Source" in your browser -->
+    The content of your page
+  </body>
+</html>
+
+````
