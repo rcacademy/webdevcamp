@@ -2,13 +2,9 @@
 
 ###  Developer Culture & Resources 
 
-#### Readings
+#### Pre-Class Readings
 1. [Teach Yourself Programming in 10 Years](http://norvig.com/21-days.html)
-2. Tool map (Frontend, backend, languages, etc)
-3. Frontend vs. backend
-4. Buzzword Bingo
-
-**[Programmers are herd animals](https://www.youtube.com/watch?v=lrf6xuFq1Ms)** by FunFunFunction (mpj)
+2. **[Programmers are herd animals](https://www.youtube.com/watch?v=lrf6xuFq1Ms)** by FunFunFunction (mpj)
 
 
 # In Class
@@ -16,6 +12,10 @@
 ## Hour 1: Tool Map & Frontend & Backend development
 
 TODO: Add content for this!
+
+1. Tool map (Frontend, backend, languages, etc)
+2. Frontend vs. backend
+3. Buzzword bingo
 
 ## Hour 2-3: Getting Started & Introduction to HTML
 

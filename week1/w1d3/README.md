@@ -1,7 +1,7 @@
 # Week 1 Day 3
 
 
-### Introduction to CSS
+### More CSS & Exercises
 * CSS Basics
 * Creating a stylesheet
 * Selectors
