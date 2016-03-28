@@ -1,6 +1,6 @@
 # Week 12
 
-**[Staying Relevant as a Programmer](https://www.youtube.com/watch?v=ZZUY37RQS-k)** by FunFunFunction
+**[Staying Relevant as a Programmer](https://www.youtube.com/watch?v=ZZUY37RQS-k)** (video) by FunFunFunction (mpj)
 
 ### week 12 day 1: Github Profiles & Github Pages
 
