@@ -11,7 +11,8 @@ Please do!
 
 
 ## Resources
-Check out [these resources](./z-resources) if you get stuck.
+* Buzzword Dictionary
+* [More resources](./z-resources) if you get stuck!
 
 ## Week by Week
 
