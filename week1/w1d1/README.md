@@ -63,6 +63,7 @@ Comments start with `<!--` and end with `-->`. You will notice that your code ed
 ````
 
 #### Basic Tags
+HTML has a lot of different tags. We will cover the most common ones here but you can also see a full list of them at [W3Schools](http://www.w3schools.com/tags/).
 
 #### Paragraph <p>
 ```html
@@ -84,3 +85,19 @@ Header tags include `<h1>`, `<h2>`, `<h3>`, `<h4>` and `<h5>`. These are used fo
 <h4>Fourth largest headline</h4>
 <h5>Smallest headline</h5>
 ````
+
+#### Image Tags
+
+#### Links
+
+#### Lists
+
+
+
+#### Divs & Spans
+
+#### Tables
+
+#### Forms
+
+#### Advanced Forms: Dropdowns, Checkboxes and Radio Buttons
