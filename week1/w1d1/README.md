@@ -182,12 +182,23 @@ Lists are extremely important in displaying content and will be extremely handy 
 
 #### Forms
 ```html
+<form>
+  <input type = "text" placeholder = "Your name here" >
+  <input type = "password" >
+  <textarea></textarea>
+  <submit text = "Submit" >
+</form>
 ```
 
 #### Advanced Forms: Dropdowns, Checkboxes and Radio Buttons
 ```html
+<form>
+  <select>
+    <option value = "US">United States</option>
+  </select>
+  <input type = "checkbox"> I agree to the terms
+</form>
 ```
-
 
 ### Table Exercise
 Take country data and put it into a table.
