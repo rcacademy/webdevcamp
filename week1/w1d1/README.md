@@ -71,9 +71,10 @@ Comments start with `<!--` and end with `-->`. You will notice that your code ed
 #### Headline Tags
 Header tags include `<h1>`, `<h2>`, `<h3>`, `<h4>` and `<h5>`. These are used for headlines with `h1` being the largest and `h5` being the smallest.
 
-# h1
-## h2
-### h3
-#### h4
-##### h5
-
+```html
+<h1>Largest headline</h1>
+<h2>Second largest headline</h2>
+<h3>Third largest headline</h3>
+<h4>Fourth largest headline</h4>
+<h5>Smallest headline</h5>
+````
