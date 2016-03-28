@@ -9,6 +9,9 @@ Welcome to RC Academy
 
 Please do!
 
+
+## Week by Week
+
 1. [Week 1: HTML/CSS](./week1)
   1. Week 1 Day 1
   2. Week 1 Day 2
