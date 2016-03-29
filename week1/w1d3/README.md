@@ -1,17 +1,5 @@
-# Week 1 Day 3
+# Week 1 Day 3: HTML & CSS - Putting it all together
 
-
-### More CSS & Exercises
-* CSS Basics
-* Creating a stylesheet
-* Selectors
-* Properties
-* Specificity & Cascading
-* Intro to Chrome Inspector
-* Advanced Selectors
-* Selectors Assignment
-* Fonts & Colors
-* Introduction to the Box model
-* **Exercise: Create a tic tac toe board**
+### HTML & CSS Project
 * **Project: Build a blog layout in HTML/CSS**
-* Bootstrap CSS
+* Build coffee shop website from Handcrafted CSS book
