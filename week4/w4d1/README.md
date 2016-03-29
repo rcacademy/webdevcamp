@@ -1,1 +1,3 @@
-# Week 2 Day 1
+# Week 4 Day 1
+
+More javascript exercises, koans

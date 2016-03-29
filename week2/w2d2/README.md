@@ -2,20 +2,31 @@
 
 * Javascript console
 * Primitives
+* Primitives Exercises
 * Variables
 * Null and Undefined
-
-*** Exercise: Age calculator**
+* Built-in Methods
+* Writing Javascript in a seperate file
+* **Exercise: Age calculator**
 * Control Flow
 	* Boolean logic
 	* Logical operators
 	* Conditionals
+	* **Exercise: Conditionals**
+	* Intro to Loops
 	* While Loops
 	* For Loops
-	* Loops problem set
+	* **Problem Set: Loops**
 * Functions
 * Arrays
 * Objects
-* DOM Manipulation
-* Events & Event Listeners
-*** JAVASCRIPT PROJECT**
+
+
+```js
+var num = 1;
+
+while(num <=10) {
+	console.log(num);
+	num += 2;
+}
+```

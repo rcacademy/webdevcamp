@@ -157,11 +157,11 @@ Lists are extremely important in displaying content and will be extremely handy 
 
 ```html
 <table>
-  <thead>
-    <td>Header Col 1</td> <!-- Header Row Column 1 -->
-    <td>Header Col 2</td> <!-- Header Row Column 2 -->
-    <td>Header Col 3</td> <!-- Header Row Column 3 -->
-  </thead>
+  <tr>
+    <th>Header Col 1</th> <!-- Header Row Column 1 -->
+    <th>Header Col 2</th> <!-- Header Row Column 2 -->
+    <th>Header Col 3</th> <!-- Header Row Column 3 -->
+  </tr>
   <tr> <!-- Row 1 -->
     <td>r1 c1</td> <!-- Row 1 Column 1 -->
     <td>r1 c2</td> <!-- Row 1 Column 2 -->
@@ -172,11 +172,6 @@ Lists are extremely important in displaying content and will be extremely handy 
     <td>r1 c2</td> <!-- Row 2 Column 2 -->
     <td>r1 c3</td> <!-- Row 2 Column 3 -->
   </tr>
-  <thead>
-    <td>Footer Col 1</td> <!-- Footer Row Column 1 -->
-    <td>Footer Col 2</td> <!-- Footer Row Column 2 -->
-    <td>Footer Col 3</td> <!-- Footer Row Column 3 -->
-  </thead>
 </table>
 ```
 
