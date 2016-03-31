@@ -1,39 +1,38 @@
-# Week 1 Day 1
+# Week 1 Day 1: Getting Started & Intro to HTML
 
-###  Developer Culture & Resources 
-
-#### Pre-Class Readings
+## Pre-Class Readings & Videos
 1. [Teach Yourself Programming in 10 Years](http://norvig.com/21-days.html)
 2. [Programmers are herd animals](https://www.youtube.com/watch?v=lrf6xuFq1Ms) by FunFunFunction (mpj)
 
+---
 
-# In Class
+## In Class
 
-## Hour 1: Tool Map & Frontend & Backend development
-
-TODO: Add content for this!
+### Hour 1: Tool Map & Frontend & Backend development
 
 1. Tool map (Frontend, backend, languages, etc)
 2. Frontend vs. backend
 3. Buzzword bingo
 
-## Hour 2-3: Getting Started & Introduction to HTML
+---
+
+### Hour 2-3: Getting Started & Introduction to HTML
 
 ### Setting up your front-end development environment
 
 #### Code editor
 You will need to use a code editor to get started. We're going to be using [Atom](https://atom.io) right now but there are many options out there.
-  
+
 1. Download Atom.
 2. For Mac users, unzip the download and move the Atom icon into your `Applications` folder.
 
 
-### Introduction to HTML
+#### Introduction to HTML
 HTML stands for **hypertext markup language**. It was originally created by academics to add formatting to their published papers in the early days of the web. We still use HTML to this day but a lot has changed since the first academic paper was published with what we could call HTML 1.0.
 
 Thankfully we are now on `HTML 5.0`. You don't need to refer to it as such but 5.0 is the most recent version at the time of this writing. It is not up to us as web developers to add support for the versions of HTML, instead the popular web browsers have to make sure they support the latest standards. These include browsers such as Chrome, Safari, Edge and previously, Internet Explorer (more on that later).
 
-#### HTML Boilerplate
+#### HTML Boilerplate: Tags, Attributes & Elements
 
 The following code is the HTML boilerplate. This will be used in every HTML document you create. It is composed of the `DOCTYPE`, `<html>`, `<head>`, `<title>`, and `<body>` tags. These tags will appear highlighted in your code editor. We'll learn more about tags shortly.
 
@@ -48,6 +47,8 @@ The following code is the HTML boilerplate. This will be used in every HTML docu
   </body>
 </html>
 ```
+
+You can view all available tags at [HTML Dog's HTML Reference ](http://htmldog.com/references/html/tags/).
 
 #### HTML Comments
 
@@ -72,9 +73,9 @@ Comments start with `<!--` and end with `-->`. You will notice that your code ed
 HTML has a lot of different tags. We will cover the most common ones here but you can also see a full list of them at [W3Schools](http://www.w3schools.com/tags/).
 
 #### Paragraph <p>
-  
-The most basic tag is the paragraph `<p>` tag. You guessed it! It lets us create paragraphs in our document. This tag requires that you open it with `<p>` and close it with `</p>` at the end of the paragraph. There are a few  
-  
+
+The most basic tag is the paragraph `<p>` tag. You guessed it! It lets us create paragraphs in our document. This tag requires that you open it with `<p>` and close it with `</p>` at the end of the paragraph.
+
 ```html
 <p>A paragraph of text can be displayed between these tags</p>
 ```
@@ -100,7 +101,7 @@ Adds a line break in the middle of your content. This tag **does not** have an e
 
 #### Emphasis & Formatting
 You can use `<strong>` or `<b>` tags to make text bold and `<i>` to make text italicized. There will be better ways to do this later but for now, you can use these to add emphasis to your content.
-  
+
 ```html
 <p>This is some <b>bold</b> text next to some <i>italicized</i> text inside of a paragraph.</p>
 ```  
@@ -125,19 +126,25 @@ The `<img>` tag allows you to define an image that will show up in your document
 <p>Check out this <a href = "http://colinloretz.com">new blog</a> I started. This code will make the words "new blog" into a link to http://colinloretz.com.</p>
 
 #### Lists
-Lists are extremely important in displaying content and will be extremely handy for building more complex websites in the future as you develop new skills.
+Lists are extremely important in displaying lists of content and will also be extremely important for building more complex websites in the future.
 
 ```html
+<!-- "Unordered Lists" will display bullets by default -->
+<ul>
+  <li>List Item 1</li>
+  <li>List Item 1</li>
+</ul>
+
+<!-- "Ordered Lists" will display the list with numbers by default -->
+<ol>
+  <li>List Item 1</li>
+  <li>List Item 1</li>
+</ol>
 ```
 
-#### Divs & Spans
-```html
 
-<div></div>
+Now that we have a good sense of how HTML works, we can add some more advanced HTML elements to display content and allow users to enter data into forms.
 
-<span></span>
-
-```
 
 #### Tables
 ```html

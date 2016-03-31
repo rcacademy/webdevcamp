@@ -2,4 +2,8 @@
 
 ### HTML & CSS Project
 * **Project: Build a blog layout in HTML/CSS**
-* Build coffee shop website from Handcrafted CSS book
+
+
+
+
+_**Goal! Build coffee shop website from Handcrafted CSS book?**_
