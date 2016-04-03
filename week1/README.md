@@ -3,7 +3,7 @@
 ### [Class 1 (w1d1): Getting Started & Introduction to HTML](./w1d1)
 
 #### Lecture
-* Course Overview ([slides]())
+* Course Overview ([slides](./w1d1/slides/w1d1_overview.pdf))
 * Introduction to Github
   * Star this repository!
 * Introduction to HTML
