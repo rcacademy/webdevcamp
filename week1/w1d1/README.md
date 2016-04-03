@@ -26,6 +26,27 @@ You will need to use a code editor to get started. We're going to be using [Atom
 1. Download Atom.
 2. For Mac users, unzip the download and move the Atom icon into your `Applications` folder.
 
+#### Your browser
+
+#### The File System
+It is important to become familiar with your computer's file system: how to find files, organize your projects and navigate between files and folders. Most operating system (OS) file systems are structured like a tree.
+
+**Example of a tree-based file system**
+
+> * /
+  * Applications
+  * Users
+    * colinloretz
+      * Desktop
+      * Documents
+      * Projects
+    * guest
+      * Desktop
+        * selfie.jpg
+      * Documents
+      * Pictures
+
+
 
 #### Introduction to HTML
 HTML stands for **hypertext markup language**. It was originally created by academics to add formatting to their published papers in the early days of the web. We still use HTML to this day but a lot has changed since the first academic paper was published with what we could call HTML 1.0.

@@ -4,6 +4,4 @@
 * **Project: Build a blog layout in HTML/CSS**
 
 
-
-
 _**Goal! Build coffee shop website from Handcrafted CSS book?**_

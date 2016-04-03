@@ -21,6 +21,13 @@ Forum? Discourse?
 * Buzzword Dictionary
 * [More resources](./resources) to help you on your journey
 
+## Schedule
+
+| Monday | Wednesday | Thursday |
+|--------|-----------|----------|
+| 4/4: [Introduction to HTML]    | 4/6: [Intermediate HTML & Introduction CSS]()    | 4/7: Bringing it all together: HTML & CSS      |
+
+
 ## Week by Week
 
 1. [Week 1: HTML/CSS](./week1)
