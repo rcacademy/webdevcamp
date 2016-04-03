@@ -26,7 +26,7 @@ Forum? Discourse?
 | Monday | Wednesday | Thursday |
 |--------|-----------|----------|
 | 4/4: [Introduction to HTML]()    | 4/6: [HTML & Introduction CSS]()    | 4/7: [HTML & CSS Project]()      |
-| 4/11: [CSS Frameworks]() | 4/13: Introduction to Javascript | 4/14: Javascript & Boostrap |
+| 4/11: [CSS Frameworks]() | 4/13: [Introduction to Javascript]() | 4/14: [Javascript & Bootstrap]() |
 | 4/18: [Introduction to JQuery]() | 4/20: [Building a Todo List App]() | 4/21: [Sound Machine Project]() |
 | 4/25: [Intermediate Javascript]() | 4/27: [Building Snake]() | 4/28: [Finishing Snake Game]() |
 | 5/2: [Introduction to Ruby]() | 5/4: [Ruby Concepts]() | 5/5: [Using Ruby Gems]() |
