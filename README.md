@@ -64,6 +64,5 @@ Again, this is going to be a living document for the duration of this class. It 
 
 **Did you found typos or broken links?** If we are at the point in the class where you feel ready to use git & Github, you're welcome to make the change and send a pull request or [create an issue]() and we'll get it fixed!
 
-
 ## A few important words from Morgan Freeman
 ![Good Luck](./zimages/freeman.gif)
