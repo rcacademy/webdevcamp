@@ -9,13 +9,17 @@ Welcome to RC Academy
 
 Please do!
 
-Add TAs and instructors here
+#### Teaching Assistants
 
-Slack
+##### Christopher Baker
 
-Office Hours  
+##### Josh Fleming
 
-Forum? Discourse?
+## Office Hours
+
+#### In Person
+
+#### Slack Office Hours
 
 ## Resources
 * Buzzword Dictionary
