@@ -27,7 +27,7 @@ Software Developer at SPIN Games.
 
 **Josh Fleming**  
 Software Developer & Owner of Revolt Media.  
-**email:** go+rca@revoltmedia.com
+**email:** go+rc@revoltmedia.com
 **slack:** joshfleming
 
 ## Office Hours
