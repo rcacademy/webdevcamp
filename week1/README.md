@@ -51,7 +51,7 @@
 * HTML & CSS Tips & Tricks
 
 #### In-Class Exercises
-* HTML/CSS Profile Page
+* [HTML/CSS Profile Page](./w1d3)
 
 #### Homework
 * Watch: Git & Github Video (TODO: link to youtube)
