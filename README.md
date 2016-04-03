@@ -11,7 +11,7 @@ You might find it difficult to try and do the following week's work. If you do h
 
 ## Asking for help
 
-Please do! There are no bad questions, please feel free to ask any questions you have as the course progresses. We might sometimes answer your question with more questions to help you arrive at the answer but that's all part of the learning process!
+Please do! There are no bad questions, you are encouraged to any questions you have as the course progresses. We might sometimes answer your question with more questions to help you arrive at the answer but that's all part of the learning process!
 
 #### Instructors
 
