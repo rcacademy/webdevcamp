@@ -1,8 +1,6 @@
 # Week 1 Day 1: Getting Started & Intro to HTML
 
 ## Pre-Class Readings & Videos
-1. [Teach Yourself Programming in 10 Years](http://norvig.com/21-days.html)
-2. [Programmers are herd animals](https://www.youtube.com/watch?v=lrf6xuFq1Ms) by FunFunFunction (mpj)
 
 ---
 
@@ -31,6 +29,8 @@ You will need to use a code editor to get started. We're going to be using [Atom
 #### The File System
 It is important to become familiar with your computer's file system: how to find files, organize your projects and navigate between files and folders. Most operating system (OS) file systems are structured like a tree.
 
+We will be learning how to navigate this using the `command line` in the near future.
+
 **Example of a tree-based file system**
 
 > * /
@@ -45,7 +45,6 @@ It is important to become familiar with your computer's file system: how to find
         * selfie.jpg
       * Documents
       * Pictures
-
 
 
 #### Introduction to HTML
@@ -223,8 +222,8 @@ Now that we have a good sense of how HTML works, we can add some more advanced H
 </form>
 ```
 
-### Table Exercise
-Take country data and put it into a table.
+### Table Exercise: Country Tables
+Take the provided country data and put it into a table.
 
-### Form Exercise
-Create a form with labels that allows us to enter our name and address.
+### Form Exercise: E-Commerce Checkout
+Create a form with labels that allows us to enter our name, email address, shipping notes and shipping address.
