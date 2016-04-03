@@ -13,7 +13,7 @@ You might find it difficult to try and do the following week's work. If you do h
 
 Please do! There are no bad questions, you are encouraged to any questions you have as the course progresses. We might sometimes answer your question with more questions to help you arrive at the answer but that's all part of the learning process!
 
-#### Instructors
+## Instructors
 
 **Colin Loretz**  
 Web Developer & Instructor at Reno Collective  
@@ -32,9 +32,11 @@ Software Developer & Owner of Revolt Media.
 
 ## Office Hours
 
-#### In Person
+#### In-Person Office Hours
+We will be having standing in-person office hours. Days and times will be determined on the first day of class as a group.
 
-#### Slack Office Hours
+#### Online Office Hours via Slack
+We will be hosting online office hours frequently on Slack. These will be determined on the first day of class as a group.
 
 ## Resources
 * Buzzword Dictionary
