@@ -15,17 +15,17 @@ Please do! There are no bad questions, you are encouraged to any questions you h
 
 #### Instructors
 
-##### Colin Loretz
+**Colin Loretz**  
 Web Developer & Instructor at Reno Collective  
 **email:** colin@renocollective.com  
 **slack:** colinloretz
 
-##### Christopher Baker
+**Christopher Baker**  
 Software Developer at SPIN Games.  
 **email:** christopher@renocollective.com  
 **slack:** ta_christopher
 
-##### Josh Fleming
+**Josh Fleming**  
 Software Developer & Owner of Revolt Media.  
 **email:** josh@renocollective.com  
 **slack:** joshfleming
