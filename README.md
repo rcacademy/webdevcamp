@@ -25,7 +25,7 @@ Forum? Discourse?
 
 | Monday | Wednesday | Thursday |
 |--------|-----------|----------|
-| 4/4: [Introduction to HTML]    | 4/6: [Intermediate HTML & Introduction CSS]()    | 4/7: Bringing it all together: HTML & CSS      |
+| 4/4: [Introduction to HTML]()    | 4/6: [Intermediate HTML & Introduction CSS]()    | 4/7: [Bringing it all together: HTML & CSS]()      |
 
 
 ## Week by Week
