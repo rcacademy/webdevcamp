@@ -57,7 +57,7 @@ Software Developer & Owner of Revolt Media.
 | 6/13: Programming Languages  | 6/15: Tools, Tools, Tools | 6/16: Databases and Shiny Objects |
 | 6/20: Creating a Portfolio | 6/22: Interviewing Methods & Exercises | 6/23: Mock Interviews |
 
-## Fixes and Changes
+## Fixes and Changes to the Curriculum
 Again, this is going to be a living document for the duration of this class. It has been written specifically for this class and while we've tried to get it right on the first go, there might be some mistakes.
 
 **Did you found typos or broken links?** If we are at the point in the class where you feel ready to use git & Github, you're welcome to make the change and send a pull request or [create an issue]() and we'll get it fixed!
