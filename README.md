@@ -22,12 +22,12 @@ Web Developer & Instructor at Reno Collective
 
 **Christopher Baker**  
 Software Developer at SPIN Games.  
-**email:** christopher@renocollective.com  
+**email:** christopher+rc@hmudesign.com  
 **slack:** ta_christopher
 
 **Josh Fleming**  
 Software Developer & Owner of Revolt Media.  
-**email:** josh@renocollective.com  
+**email:** go+rca@revoltmedia.com
 **slack:** joshfleming
 
 ## Office Hours
