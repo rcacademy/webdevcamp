@@ -54,7 +54,7 @@ We will be hosting online office hours frequently on Slack. These will be determ
 | 5/9: Introduction to Rails | 5/11: Pinterest Project| 5/12: Persisting Data with Databases |
 | 5/16: Blog | 5/18: Blog | 5/19: Blog |
 | 5/23: Twitter | 5/25: Twitter | 5/26: Sending Emails |
-| 5/30: Making a review website | 6/1: [Review Website Project | 6/2: Finsish Review Project |
+| 5/30: Making a review website | 6/1: Review Website Project | 6/2: Finish Review Project |
 | 6/6: Creating Real Time Chat | 6/8: Creating Real Time Chat | 6/9: Creating Real Time Chat |
 | 6/13: Programming Languages  | 6/15: Tools, Tools, Tools | 6/16: Databases and Shiny Objects |
 | 6/20: Creating a Portfolio | 6/22: Interviewing Methods & Exercises | 6/23: Mock Interviews |

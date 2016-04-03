@@ -59,7 +59,7 @@
 #### Additional Resources
 * [Handcrafted CSS]() - This book covers a lot of common gotchas in HTML & CSS - full PDF available at this link
 * [Basic Git Workflow](https://www.codeschool.com/courses/git-real) - Free course on CodeSchool.com
-* [Pro Git book](https://git-scm.com/book/en/v2) - Full Git Pro Book freely available online
+* [Pro Git book](https://git-scm.com/book/en/v2) - Full Git Pro Book freely available online, check out the first 2 chapters to get a good overview of basic commands.
 
 #### Front End Bonus Project
 We will not be covering all of this in the course but if you want to get really good at frontend HTML/CSS, take a crack at building the Tugboat Coffee website that is built in the Handcrafted CSS book (linked above). This is a very involved website that makes use of a lot of CSS tricks to illustrate how they can be used. As you will see in our future projects, not all websites have to rely on CSS trickery.
