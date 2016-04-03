@@ -30,7 +30,7 @@ Forum? Discourse?
 | 4/18: [Introduction to JQuery]() | 4/20: [Building a Todo List App]() | 4/21: [Sound Machine Project]() |
 | 4/25: [Intermediate Javascript]() | 4/27: [Building Snake]() | 4/28: [Finishing Snake Game]() |
 | 5/2: [Introduction to Ruby]() | 5/4: [Ruby Concepts]() | 5/5: [Using Ruby Gems]() |
-| 5/9: [Introduction to Rails]() | 5/11: [Pinterest Project]() | 5/12: [Persisting Data with Datbases]() |
+| 5/9: [Introduction to Rails]() | 5/11: [Pinterest Project]() | 5/12: [Persisting Data with Databases]() |
 | 5/16: [Blog]() | 5/18: [Blog]() | 5/19: [Blog]() |
 | 5/23: [Twitter]() | 5/25: [Twitter]() | 5/26: [Sending Emails]() |
 | 5/30: [Making a review website]() | 6/1: [Review Website Project]() | 6/2: [Finsish Review Project]() |
