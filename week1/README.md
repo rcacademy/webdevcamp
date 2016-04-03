@@ -57,7 +57,7 @@
 * Watch: Git & Github Video (TODO: link to youtube)
 
 #### Additional Resources
-* [Handcrafted CSS](ftp://91.193.237.1/pub/docs/linux-support/programming/HTML-CSS/[New%20Riders]%20-%20Handcrafted%20CSS%20-%20[Cederholm]/[New%20Riders]%20-%20Handcrafted%20CSS%20-%20[Cederholm].pdf) - This book covers a lot of common gotchas in HTML & CSS - full PDF available at this link
+* [Handcrafted CSS]() - This book covers a lot of common gotchas in HTML & CSS - full PDF available at this link
 * [Basic Git Workflow](https://www.codeschool.com/courses/git-real) - Free course on CodeSchool.com
 * [Pro Git book](https://git-scm.com/book/en/v2) - Full Git Pro Book freely available online
 
