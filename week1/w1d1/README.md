@@ -1,21 +1,5 @@
 # Week 1 Day 1: Getting Started & Intro to HTML
 
-## Pre-Class Readings & Videos
-
----
-
-## In Class
-
-### Hour 1: Tool Map & Frontend & Backend development
-
-1. Tool map (Frontend, backend, languages, etc)
-2. Frontend vs. backend
-3. Buzzword bingo
-
----
-
-### Hour 2-3: Getting Started & Introduction to HTML
-
 ### Setting up your front-end development environment
 
 #### Code editor
@@ -205,9 +189,9 @@ Now that we have a good sense of how HTML works, we can add some more advanced H
 #### Forms
 ```html
 <form>
-  <input type = "text" placeholder = "Your name here" >
-  <input type = "password" >
-  <textarea></textarea>
+  <input type = "text" placeholder = "Your name here" name = "fullname" >
+  <input type = "password" name = "password">
+  <textarea name = "biography"></textarea>
   <submit text = "Submit" >
 </form>
 ```
@@ -217,6 +201,8 @@ Now that we have a good sense of how HTML works, we can add some more advanced H
 <form>
   <select>
     <option value = "US">United States</option>
+    <option value = "CA">Canada</option>
+    <option value = "UK">United Kingdom</option>
   </select>
   <input type = "checkbox"> I agree to the terms
 </form>

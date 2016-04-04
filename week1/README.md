@@ -4,12 +4,9 @@
 
 #### Lecture
 * Course Overview ([slides](./w1d1/slides/w1d1_overview.pdf))
-* Introduction to Github
-  * Star this repository!
-* Introduction to HTML
+* Introduction to HTML ([slides](./w1d1/slides/w1d1_html.pdf))
 
 #### Exercises
-* Getting Started
 * HTML Table Exercise: Country Data
 * HTML Form Exercise: E-Commerce Checkout
 
