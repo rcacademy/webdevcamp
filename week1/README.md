@@ -12,7 +12,7 @@
 
 ##### Homework
 
-* Watch: Command line tutorial - [Linux/Mac Users]() or [Windows Users](https://www.youtube.com/watch?v=zBXe-IaNJps)
+* Watch: Command line tutorial - [Linux/Mac Users](https://www.youtube.com/watch?v=AfM11G2NYxg) or [Windows Users](https://www.youtube.com/watch?v=zBXe-IaNJps)
 * Read: [Teach Yourself Programming in 10 Years](http://norvig.com/21-days.html) by Peter Norvig
 * Watch: [Programmers are herd animals](https://www.youtube.com/watch?v=lrf6xuFq1Ms) by FunFunFunction (mpj)
 
