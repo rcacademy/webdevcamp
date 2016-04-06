@@ -32,9 +32,6 @@
 #### In-Class Exercises
 * CSS Exercises
 
-#### Homework
-* CSS Exercises
-
 #### Resources
 * [CSS Tricks](https://css-tricks.com/) - Great blog full of CSS tips & tricks
 * [CodePen](http://codepen.io/) - Playground for the front end web
