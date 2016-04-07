@@ -67,6 +67,6 @@
 ----
 
 #### Front End Bonus Project
-We will not be covering all of this in the course but if you want to get really good at frontend HTML/CSS, take a crack at building the Tugboat Coffee website that is built in the **Handcrafted CSS** book (linked above). This is a very involved website that makes use of a lot of CSS tricks to illustrate how they can be used.
+We will not be covering all of this in the course but if you want to get really good at frontend HTML/CSS, take a crack at building the Tugboat Coffee website (or at least looking through the code that makes it work with Chrome Developer Tools). You can find the tugboat code in the `resources` folder. This is a very involved website that makes use of a lot of CSS tricks to illustrate how they can be used.
 
 ![Tugboat Coffee](../zimages/tugboat.png)
