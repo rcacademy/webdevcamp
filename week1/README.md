@@ -41,19 +41,32 @@
 ### [Class 3 (w1d3): HTML & CSS: Putting it all together](./w1d3)
 
 #### Lecture
-* HTML & CSS Tips & Tricks
+* **HTML & CSS Tips & Tricks**
+  * [CSS Psuedo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+  * [CSS Psuedo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+  * Floats & Clearing Floats
+  * Using Chrome Developer Tools
+  * Using a list to display a navigation menu
+  * CSS Resets & using more than one stylesheet
+
 
 #### In-Class Exercises
-* [HTML/CSS Profile Page](./w1d3)
+1. Review code for a [CSS Button](http://codepen.io/rcacademy/pen/JXMPRa)
+2. [Layout Walkthrough](./w1d3)
+3. Floats & Clearning [Code Walkthrough](http://codepen.io/rcacademy/pen/MyrEWJ)
+4. Review code for [User Badges](http://codepen.io/rcacademy/pen/yOpLWd)
+5. Build your own [HTML/CSS Profile Page](./w1d3)
 
 #### Homework
-* Watch: Git & Github Video (TODO: link to youtube)
+* Work on your Profile Page to demo in class on 4/11
 * _Optional: Front End Bonus Project (details below)_
 
 #### Additional Resources
-* [Handcrafted CSS](../resources/handcrafted_css.pdf) - This book covers a lot of common gotchas in HTML & CSS - full PDF available at this link
+* [Handcrafted CSS](../resources/handcrafted_css.pdf) - This book covers a lot of common gotchas in HTML & CSS - full PDF available at this link. Not required reading but a great thing to read through as you learn HTML/CSS.
+
+----
 
 #### Front End Bonus Project
-We will not be covering all of this in the course but if you want to get really good at frontend HTML/CSS, take a crack at building the Tugboat Coffee website that is built in the **Handcrafted CSS** book (linked above). This is a very involved website that makes use of a lot of CSS tricks to illustrate how they can be used. As you will see in our future projects, not all websites have to rely on CSS trickery.
+We will not be covering all of this in the course but if you want to get really good at frontend HTML/CSS, take a crack at building the Tugboat Coffee website that is built in the **Handcrafted CSS** book (linked above). This is a very involved website that makes use of a lot of CSS tricks to illustrate how they can be used.
 
-![Tugboat Cofee](../zimages/tugboat.png)
+![Tugboat Coffee](../zimages/tugboat.png)

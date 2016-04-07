@@ -1,1 +1,50 @@
-/* Put your css here */
+/* Number 1 */
+
+body {
+  font-family: arial;
+}
+
+h1 {
+  font-family: arial, sans-serif;
+}
+
+.story {
+  background-color: #DAD9D7;
+  margin-left: 40px;
+}
+
+/* Number 2, 3, and 4 */
+
+.groceries {
+  list-style-type: none;
+}
+
+.groceries li {
+  padding: 5px;
+  margin: 2px;
+}
+
+
+.fire {
+  color: red;
+}
+
+h2.water {
+  color: blue;
+}
+
+h2.emphasis {
+  text-decoration: underline;
+}
+
+/* Number 5 */
+.divchecklist {
+  background-color: #4EB9F8;
+  width: 50%;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+img  {
+  width: 100px;
+}
