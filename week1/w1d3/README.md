@@ -22,6 +22,8 @@ For this walkthrough, we're going to draw out a website on paper and then procee
 
 5. Add properties and values to the selectors to achieve the same layout as shown above. Hint: You can use `background-color` to allow you to see the boundaries of each element while you are building them.
 
+---
+
 ### HTML & CSS Project
 For this project, you're going to build your own profile page that can serve as the beginnings of your web development portfolio.
 

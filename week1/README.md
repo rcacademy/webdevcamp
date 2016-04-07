@@ -55,7 +55,7 @@
 2. [Layout Walkthrough](./w1d3)
 3. Floats & Clearning [Code Walkthrough](http://codepen.io/rcacademy/pen/MyrEWJ)
 4. Review code for [User Badges](http://codepen.io/rcacademy/pen/yOpLWd)
-5. Build your own [HTML/CSS Profile Page](./w1d3)
+5. Build your own [HTML/CSS Profile Page](./w1d3#html--css-project)
 
 #### Homework
 * Work on your Profile Page to demo in class on 4/11
