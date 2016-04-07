@@ -1,0 +1,74 @@
+html {
+  background: url(../images/china.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+#wrapper {
+  padding: 100px 30px;
+}
+
+#about {
+  padding: 30px 40px;
+  width: 60%;
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, .8);
+  font-family: helvetica, arial, sans-serif;
+}
+
+#about h1 {
+  font-size: 1.8em;
+}
+
+.avatar {
+  text-align: center;
+}
+
+.avatar img {
+  width: 100px;
+  margin: 0 auto;
+  border-radius: 100px;
+  border: 10px solid rgba(0,0,0,.2);
+}
+
+.bio {
+  padding: 5px 0px;
+}
+
+.bio a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #001254;
+}
+
+.bio a:hover {
+  color: #CD6EAE;
+}
+
+.social {
+  margin-top: 10px;
+  list-style-type: none;
+  overflow: hidden; /* To fix our floating issues */
+}
+
+.social li {
+  float: left;
+  margin-right: 10px;
+}
+
+.button {
+  margin-top: 20px;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+.button.email {
+  color: white;
+  background-color: #2792F9;
+}
+
+.button.email:hover {
+  background-color: #1B7CE4;
+}
