@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Tugboat Coffee Company</title>
+<link rel="stylesheet" type="text/css" media="screen, projection" href="css/screen.css" />
+<script src="js/jquery-1.2.6.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+	// Toggle advanced options
+	$(document).ready(function(){
+		$("#loc-adv a").click(function(){
+			$("#map").slideToggle("slow");
+			return false;
+		});
+	});
+
+	// Add .last class to certain lists
+	$(document).ready(function(){
+		$("ul.lst li:last, ul.press li:last").addClass("last");
+		});
+</script>
+</head>
+
+<body>
+
+<div id="header" class="group"><div id="header-inner">
+	<div id="nav" class="group">
+		<div id="logo" class="group">
+			<h1><img src="img/logo-lofi.gif" alt="Tugboat" /></h1>
+			<p>Pulling you along since 2009.</p>
+		</div>
+
+		<img src="img/tugboat.png" alt="tugboat" id="tugboat" />
+
+		<ul class="group">
+			<li><a href="#"><strong>Home <em>News and Trends</em></strong></a></li>
+			<li><a href="#"><strong>Our Coffee <em>Handcrafted Beans</em></strong></a></li>
+			<li><a href="#"><strong>Store <em>Shop Online</em></strong></a></li>
+			<li class="last"><a href="#"><strong>About <em>Company Info</em></strong></a></li>
+		</ul>
+	</div>
+</div></div> <!-- /header -->
+
+<hr />
+
+<div id="wrap" class="group">
+	
+	<div class="main">		
+		<h2>Various Extra Examples</h2>
+			
+		<div class="entry last group">
+			<h3>Styled Form Fields</h3>
+			
+			<ul class="entry-meta">
+				<li><h4>January 10, 2009</h4></li>
+				<li>Posted at 10:14 <abbr>AM</abbr></li>
+				<li><span class="by">by</span> Dunder Shellfish</li>
+			</ul>
+	
+			<div class="entry-body">
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, <a href="#">nascetur ridiculus</a> mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+				
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, <a href="#">nascetur ridiculus</a> mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+				<form id="comment-form" action="/">
+					<fieldset>
+						<label for="name">Name</label>
+						<input id="name" type="text" />
+					</fieldset>
+					
+					<fieldset>
+						<label for="email">Email</label>
+						<input id="email" type="text" />
+					</fieldset>
+					
+					<fieldset>
+						<label for="comment">Comment</label>
+						<textarea id="comment" rows="5" cols="30"></textarea>
+					</fieldset>
+				</form>
+			</div>
+		</div>
+		
+		<div style="float: left; width: 50px; height: 50px; background: rgba(55,146,179,1);"></div>
+		<div style="float: left; width: 50px; height: 50px; background: rgba(55,146,179,.75);"></div>
+		<div style="float: left; width: 50px; height: 50px; background: rgba(55,146,179,.5);"></div>
+		<div style="float: left; width: 50px; height: 50px; background: rgba(55,146,179,.25);"></div>
+		<div style="float: left; width: 50px; height: 50px; background: rgba(55,146,179,.1);"></div>
+		
+		<div style="clear: both;"></div>
+		
+		<div class="pattern">
+			<div class="highlight bad">
+				<p>Save 50% off all coffee, this week only!</p>
+			</div>
+		</div>
+		
+		<div class="pattern">
+			<div class="highlight good">
+				<p>Save 50% off all coffee, this week only!</p>
+			</div>
+		</div>
+		
+		<br /><br /><br />
+		
+		<div style="clear: both;"></div>
+		
+		<div style="overflow: hidden; background: #fff; padding: 40px; -webkit-border-radius: 10px; -webkit-box-shadow: 3px 3px 4px rgba(0,0,0,.08);">
+			<img src="img/latte.jpg" style="width: 25%;" alt="Latte" />
+		
+			<div style="float: right; width: 70%;">
+				<p style="line-height: 1.5;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</div>
+			
+		</div>
+		<br /><br /><br />
+	</div> <!-- /.main -->
+	
+	<hr />
+
+	<div class="secondary">
+		<div class="mod">
+			<h3>Drink Menu</h3>
+			
+			<ul class="lst">	
+				<li><a href="#"><em>2.79</em> Latte</a></li>
+				<li><a href="#"><em>2.99</em> Cappuccino</a></li>
+				<li><a href="#"><em>1.80</em> Cafe Americano</a></li>
+				<li><a href="#"><em>2.00</em> Espresso</a></li>
+				<li><a href="#"><em>10.49</em> Caramel Macchiato</a></li>
+			</ul>
+		</div>
+		
+		<div class="mod alt">
+			<h3>Press</h3>
+			
+			<ul class="press">
+				<li>
+					<blockquote>
+						<p>&#8220;Tugboat Coffee just may be the most amazing coffee I've ever tasted.&#8221;</p>
+						<p class="author">&#8212; Martin Farmer, <cite>BeanzMag</cite></p>
+					</blockquote>
+				</li>
+				<li>
+					<blockquote>
+						<p>&#8220;A rare treasure, amongst coffee-related web sites. If six stars were possible, I&#8217;d rate it &#8230; seven.&#8221;</p>
+						<p class="author">&#8212; <cite>Bean There, Drunk That</cite></p>
+					</blockquote>
+				</li>
+				<li>
+					<blockquote>
+						<p>&#8220;Mmmmm...&#8221;</p>
+						<p class="author">&#8212; <cite>Happy Customer</cite></p>
+					</blockquote>
+				</li>
+			</ul>
+		</div>
+	</div> <!-- /.secondary -->
+
+	<hr />
+
+	<div id="footer">
+		Copyright &copy; 2009.  Tugboat Coffee is a ficticious demonstration, handcrafted by <a href="http://simplebits.com/">SimpleBits</a>.
+	</div> <!-- /footer -->
+</div> <!-- /wrap -->
+
+<!-- c(~) -->
+</body>
+</html>
