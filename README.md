@@ -33,13 +33,24 @@ Web Developer & Owner of Revolt Media.
 ## Office Hours
 
 #### In-Person Office Hours
-We will be having standing in-person office hours. Days and times will be determined on the first day of class as a group.
+
+I've outlined our office hours below. These are good times to work on projects and assignments as at least one of us will be at RC to help.
+
+If you have a specific need or question, go ahead and schedule a time slot by clicking on [Schedule!](https://calendly.com/colinloretz/officehours). Time slots are first come, first serve so take a look at what is available and priority will be given to someone who made an appointment.
+
+If a day is not available, it won't show up in the scheduling software. If you can't make these times, please let us know in Slack or via email and we can schedule office hours that work with your schedule.
+
+| Day       | Times | Location   |  Schedule |
+| ----------|-------|------------|-------------|
+| Saturdays | 9am - 12pm | Reno Collective | [Schedule!](https://calendly.com/colinloretz/officehours) |
+| Tuesdays (except 3rd Tuesdays) |  3pm - 7pm  | Reno Collective  | [Schedule!](https://calendly.com/colinloretz/officehours) |
+| Fridays  |  3pm - 6pm  | Reno Collective  | [Schedule!](https://calendly.com/colinloretz/officehours) |
 
 #### Online Office Hours via Slack
-We will be hosting online office hours frequently on Slack. These will be determined on the first day of class as a group.
+We will be hosting online office hours frequently on Slack. Feel free to post questions in Slack and the Google Group to get assistance.
 
 ## Resources
-* Buzzword Dictionary
+* Buzzword Dictionary (TBA)
 * [More resources](./resources) to help you on your journey
 
 ## Schedule
