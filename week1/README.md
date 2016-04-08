@@ -24,7 +24,7 @@
 ### [Class 2 (w1d2): Intermediate HTML and Intro to CSS](./w1d2)
 
 #### Lecture
-* Intermediate HTML
+* Intermediate HTML ([slides](./w1d2/slides/w1d2_html_css.pdf))
 * Introduction to CSS
 * Using [CodePen](http://codepen.io/)
 
@@ -41,12 +41,12 @@
 ### [Class 3 (w1d3): HTML & CSS: Putting it all together](./w1d3)
 
 #### Lecture
-* **HTML & CSS Tips & Tricks**
+* **HTML & CSS Tips & Tricks** ([slides](./w1d3/slides/w1d3_html_css.pdf))
   * [CSS Psuedo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
   * [CSS Psuedo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
   * Floats & Clearing Floats
   * Using Chrome Developer Tools
-  * Using a list to display a navigation menu
+  * [Using a list to display a navigation menu](codepen.io/rcacademy/pen/GZyMBJ)
   * CSS Resets & using more than one stylesheet
 
 
