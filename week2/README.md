@@ -7,11 +7,17 @@
 * Setting up and organizing your projects
 
 #### In-Class Exercises
-* Setting up a web project
-* Bootstrap Practice
+* [Command Line Exercise](./w2d1/exercises/commandline.md)
+* Setting up a Web Project Exercise (offline)
+* Relative & Absolute Path Exercise (offline)
+* [Bootstrap Practice](./w2d1/exercises/bootstrap.md)
 
 ##### Homework
-* TBA
+* Read over Bootstrap documentation and practice using the grid and various CSS components.
+  * [Bootstrap Getting Started](http://getbootstrap.com/getting-started/)
+  * [Bootstrap CSS](http://getbootstrap.com/css/)
+  * [Bootstrap Components](http://getbootstrap.com/components/)
+  * [Bootstrap Examples](http://getbootstrap.com/getting-started/#examples)
 
 ##### Additional Resources
 * [Bootstrap Framework](http://getbootstrap.com)
