@@ -48,6 +48,29 @@ Using CDNs can be useful when your application is in production on a server but 
 
 7. Check out examples of what can be done with Bootstrap. [These examples](http://getbootstrap.com/getting-started/#examples) help to get you started with how Bootstrap works. Next we will cover how to use some of the more important aspects of Bootstrap.
 
+
+## Adding your own stylesheet
+Now that you have added Bootstrap to your project, let's add our own stylesheet. You have direct access to the `bootstrap.css` and `bootstrap.min.css` but you **_should never change these files_**. We will instead create our own stylesheet and override the properties we'd like to change.
+
+1. Create a new stylesheet in `/css` and give it a name. I'm going to use `myprofile.css`.
+2. Link your new stylesheet in your html file but make sure that it is linked **after** you link Bootstrap's CSS file.
+  ```html
+  <link rel="stylesheet" href="css/myprofile.css" media="screen" charset="utf-8">
+  ```
+3. Now you can override styles or colors of your own inside of your own stylesheet.
+
+For example, let's change the background-color of the jumbotron to be blue and change the text color to white.
+
+```css
+.jumbotron {
+  background-color: #1167BD;
+  color: white;
+}
+```
+
+This style will be loaded after Bootstrap's styling and will override the colors of the jumbotron.
+
+
 ## The Grid
 
 Working with a grid is extremely useful when building a website or application. Just about every CSS framework includes a grid to work with. Bootstrap lets you use their built-in grid and eventually customize the grid as you get more confident with it.
@@ -108,23 +131,43 @@ Notice that you do not have to deal with any floats or clearing to make this wor
 </div>
 ```
 
-## Adding your own stylesheet
-Now that you have added Bootstrap to your project, let's add our own stylesheet. You have direct access to the `bootstrap.css` and `bootstrap.min.css` but you **_should never change these files_**. We will instead create our own stylesheet and override the properties we'd like to change.
+## Buttons
 
-1. Create a new stylesheet in `/css` and give it a name. I'm going to use `myprofile.css`.
-2. Link your new stylesheet in your html file but make sure that it is linked **after** you link Bootstrap's CSS file.
-  ```html
-  <link rel="stylesheet" href="css/myprofile.css" media="screen" charset="utf-8">
-  ```
-3. Now you can override styles or colors of your own inside of your own stylesheet.
+You can create buttons very easy with the `.btn` and button helper classes as shown below.
 
-For example, let's change the background-color of the jumbotron to be blue and change the text color to white.
+![./images/button.png](./images/button.png)
 
-```css
-.jumbotron {
-  background-color: #1167BD;
-  color: white;
-}
+```html
+<!-- Standard button -->
+<button type="button" class="btn btn-default">Default</button>
+
+<!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
+<button type="button" class="btn btn-primary">Primary</button>
+
+<!-- Indicates a successful or positive action -->
+<button type="button" class="btn btn-success">Success</button>
+
+<!-- Contextual button for informational alert messages -->
+<button type="button" class="btn btn-info">Info</button>
+
+<!-- Indicates caution should be taken with this action -->
+<button type="button" class="btn btn-warning">Warning</button>
+
+<!-- Indicates a dangerous or potentially negative action -->
+<button type="button" class="btn btn-danger">Danger</button>
+
+<!-- Deemphasize a button by making it look like a link while maintaining button behavior -->
+<button type="button" class="btn btn-link">Link</button>
 ```
 
-This style will be loaded after Bootstrap's styling and will override the colors of the jumbotron.
+## Other CSS styles
+
+Check out the [Bootstrap CSS](http://getbootstrap.com/css/) style options for things like forms, tables, images, and responsive design.
+
+## Components
+
+The [Bootstrap Components](http://getbootstrap.com/components/) include things like the jumbotron we used earlier. These are reusable comonents that can add a lot of polish to your website or application.
+
+These include navbars, badges, labels, dropdowns, alerts and much more.
+
+Go check them out and try using these components together in combination with the grid.
