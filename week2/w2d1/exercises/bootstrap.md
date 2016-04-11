@@ -107,3 +107,24 @@ Notice that you do not have to deal with any floats or clearing to make this wor
   </div>
 </div>
 ```
+
+#### Adding your own stylesheet
+Now that you have added Bootstrap to your project, let's add our own stylesheet. You have direct access to the `bootstrap.css` and `bootstrap.min.css` but you **_should never change these files_**. We will instead create our own stylesheet and override the properties we'd like to change.
+
+1. Create a new stylesheet in `/css` and give it a name. I'm going to use `myprofile.css`.
+2. Link your new stylesheet in your html file but make sure that it is linked **after** you link Bootstrap's CSS file.
+  ```html
+  <link rel="stylesheet" href="css/myprofile.css" media="screen" charset="utf-8">
+  ```
+3. Now you can override styles or colors of your own inside of your own stylesheet.
+
+For example, let's change the background-color of the jumbotron to be blue and change the text color to white.
+
+```css
+.jumbotron {
+  background-color: #1167BD;
+  color: white;
+}
+```
+
+This style will be loaded after Bootstrap's styling and will override the colors of the jumbotron.

@@ -13,6 +13,7 @@
 * [Bootstrap Practice](./w2d1/exercises/bootstrap.md)
 
 ##### Homework
+* Update your Profile page to use Bootstrap
 * Read over Bootstrap documentation and practice using the grid and various CSS components.
   * [Bootstrap Getting Started](http://getbootstrap.com/getting-started/)
   * [Bootstrap CSS](http://getbootstrap.com/css/)
