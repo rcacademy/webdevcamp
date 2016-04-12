@@ -9,7 +9,7 @@
 #### In-Class Exercises
 * [Command Line Exercise](./w2d1/exercises/commandline.md)
 * Setting up a Web Project Exercise (offline)
-* [Relative & Absolute Path Exercise](./w2d1/paths.md)
+* [Relative & Absolute Path Exercise](./w2d1/exercises/paths.md)
 * [Bootstrap Practice](./w2d1/exercises/bootstrap.md)
 
 ##### Homework
