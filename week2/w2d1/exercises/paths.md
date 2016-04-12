@@ -11,7 +11,7 @@ Absolute paths can be useful but if you use them in your projects you will have 
 ### Relative Paths
 Relative paths are generally used more often and can be used to reference files or directories _relative to_ the file that is referencing those files. For example, if you have the following file structure:
 
->  projectfolder/
+>  projectfolder/  
   │  
   ├── index.html  
   │  
