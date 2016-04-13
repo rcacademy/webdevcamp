@@ -36,10 +36,11 @@
 * [Javascript Exercises](./w2d2/exercises)
 
 #### Homework
-* Read _Eloquent Javascript_ Chapters 1-3
-  1. [Values, Types and Operators](http://eloquentjavascript.net/01_values.html)
-  2. [Program Structure](http://eloquentjavascript.net/02_program_structure.html)
-  3. [Functions](http://eloquentjavascript.net/03_functions.html)
+* Read _Eloquent Javascript_ Chapters 0-3
+  * [0. Introduction](http://eloquentjavascript.net/00_intro.html)
+  * [1. Values, Types and Operators](http://eloquentjavascript.net/01_values.html)
+  * [2. Program Structure](http://eloquentjavascript.net/02_program_structure.html)
+  * [3. Functions](http://eloquentjavascript.net/03_functions.html)
 
 #### Resources
 * [Eloquent Javascript](http://eloquentjavascript.net/)
