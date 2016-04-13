@@ -33,20 +33,25 @@
 * Intro to Javascript ([slides](./w2d2/slides/w2d2_lecture.pdf))
 
 #### In-Class Exercises
-* [Javascript Exercises](../w2d2/exercises)
+* [Javascript Exercises](./w2d2/exercises)
+
+#### Homework
+* Read _Eloquent Javascript_ Chapters 1-3
+  1. [Values, Types and Operators](http://eloquentjavascript.net/01_values.html)
+  2. [Program Structure](http://eloquentjavascript.net/02_program_structure.html)
+  3. [Functions](http://eloquentjavascript.net/03_functions.html)
 
 #### Resources
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [CodePen](http://codepen.io/) - Playground for HTML, CSS & Javascript
+* [Repl.it](http://repl.it) - Playground for running Javascript and other languages
 
 ---
 
-### [Class 6 (w2d3): Using Bootstrap & Javascript Components](./w2d3)
+### [Class 6 (w2d3): Javascript & Computer Science Fundamentals](./w2d3)
 
 #### Lecture
-* Intermediate Javascript
-* Bootstrap and Javascript
-
+* Intermediate Javascript & Data Structures
 
 #### In-Class Exercises
 * TBA
@@ -55,4 +60,4 @@
 * TBA
 
 #### Additional Resources
-* [Bootstrap Javascript](http://getbootstrap.com/javascript/)
+* TBA
