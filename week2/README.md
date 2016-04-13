@@ -30,10 +30,10 @@
 ### [Class 5 (w2d2): Introduction to Javascript](./w2d2)
 
 #### Lecture
-* Intro to Javascript
+* Intro to Javascript ([slides](./w2d2/slides/w2d2_lecture.pdf))
 
 #### In-Class Exercises
-* Javascript Exercises
+* [Javascript Exercises](../w2d2/exercises)
 
 #### Resources
 * [Eloquent Javascript](http://eloquentjavascript.net/)
