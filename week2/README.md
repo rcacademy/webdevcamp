@@ -59,8 +59,7 @@
 
 #### Homework
 * Work on Javascript exercises from w2d2 and w2d3
-* Read _Eloquent Javascript_ Chapter 4-6
+* Read _Eloquent Javascript_ Chapter 4-5
   * Don't panic! These will cover things we might not have seen yet :) Read them over for review & looking ahead
   * [4. Data Structure: Objects & Arrays](http://eloquentjavascript.net/04_data.html)
   * [5. High-Order Functions](http://eloquentjavascript.net/05_higher_order.html)
-  * [6. The Secret Life of Objects](http://eloquentjavascript.net/06_object.html)
