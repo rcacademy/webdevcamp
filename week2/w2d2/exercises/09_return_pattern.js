@@ -9,7 +9,7 @@
   Now if we call this, we won't get anything in the console. The reason is that we are returning the greeting
   instead of using console.log.
 
-  6. Create a new variable OUTSIDE of the displayGreeting function and name it ourGreeting and set it equal
+  6. Create a new variable OUTSIDE of the returnGreeting function and name it ourGreeting and set it equal
   to our function displayGreeting('Your Name');
   7. Output ourGreeting using console.log.
 
