@@ -17,13 +17,15 @@
     [ ] Store two variables in the function: price and bookingStatus. 'bookingStatus'
         will be a string that gives us a sense of what is happening in our booking. For example,
         'Flight booked from Las Vegas to Reno for $99.'
-    [ ] Only allow flights to be booked from Reno and Las Vegas, in either direction
+    
+    [ ] Only allow flights to be booked from Reno and Las Vegas, in either direction but use their airport designations (RNO and LAS).
     [ ] If the flight is from Reno to Las Vegas, the price is $99.00.
     [ ] If the flight is from Las Vegas to Reno, the price is $79.00.
     [ ] Display a message that a destination or departing city is not supported if the cities are neither
         'Reno' or 'Las Vegas'
     [ ] If we don't support a city, the price will be 0.00.
     [ ] Have the function return the price of the flight
+    [ ] Bonus: Support both the airport designation (RNO and LAS) as well as "Las Vegas" and "Reno"
 
 */
 
