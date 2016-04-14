@@ -52,7 +52,7 @@
 ### [Class 6 (w2d3): Javascript & Computer Science Fundamentals](./w2d3)
 
 #### Lecture
-* Intermediate Javascript & Data Structures [slides](./w2d3/slides/w2d3_lecture.pdf))
+* Intermediate Javascript & Data Structures ([slides](./w2d3/slides/w2d3_lecture.pdf))
 
 #### In-Class Exercises
 * [Javascript Exercises](./w2d3/exercises)
