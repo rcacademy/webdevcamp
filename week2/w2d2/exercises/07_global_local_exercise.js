@@ -7,7 +7,7 @@
   4. Use console.log to display the bankBalance again.
   5. Now call the displayBank functions
   6. Finally, use console.log outside of the displayBank function to display the global bankBalance.
-  7. You should have three console.logs with numbers.
+  7. You should have two console.logs with numbers.
 
 */
 
