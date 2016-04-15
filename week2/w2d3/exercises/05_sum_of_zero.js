@@ -1,7 +1,7 @@
 
 /*
 
-  Write a function that finds whether any two elements in the array sum to zero.
+  Write a function that finds whether any two elements next to one another in the array sum to zero.
   If it does, return true otherwise return false
 
 */

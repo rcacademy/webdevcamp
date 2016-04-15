@@ -5,8 +5,6 @@
 
 function arrayTimesTwo(nums){
 
-  //your code here
-
 }
 
 

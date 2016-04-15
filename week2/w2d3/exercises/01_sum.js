@@ -6,8 +6,6 @@
 
 function sumTo(number) {
 
-  //your code here
-
 }
 
 
