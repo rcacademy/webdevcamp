@@ -1,4 +1,4 @@
-sta# Web Development Curriculum
+# Web Development Curriculum
 
 This is the curriculum for Reno Collective Academy's Web Development Bootcamp.
 
