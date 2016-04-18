@@ -11,7 +11,7 @@
 * [Git-it](./w3d1/exercises/git-it.md)
 
 ##### Homework
-* [Publish your About Page to Github](./w3d1/homework)
+* [Publish your Portfolio Website to Github](./w3d1/homework)
 
 ##### Additional Resources
 

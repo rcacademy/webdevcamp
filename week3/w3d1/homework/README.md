@@ -1,4 +1,4 @@
-# Publish your Portfolio website to Github
+# Publish your Portfolio Website to Github
 
 [Github](http://github.com) has a cool feature for hosting static web content. Projects made with pure HTML, CSS and front-end Javascript are typically static websites and we can host them for free on Github.com.
 
