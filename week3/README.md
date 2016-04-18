@@ -14,7 +14,9 @@
 * [Publish your About Page to Github](./w3d1/homework)
 
 ##### Additional Resources
+
 If you want to be a Git superstar, we encourage you read Pro Git. It is freely available below. We've also included some good YouTube videos on the internal workings on Git.
+* [Git Cheatsheet](../resources/git-cheatsheet.pdf)
 * Read through [Pro Git](https://git-scm.com/book/en/v2) - Chapter 1 & 2
 * [Introduction to Git with Scott Chacon of GitHub](https://www.youtube.com/watch?v=ZDR433b0HJY) (advanced but very informative)
 
