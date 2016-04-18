@@ -4,7 +4,7 @@
 
 #### Lecture
 * Code along [W2D3 Exercises](../week2/w2d3/exercises)
-* Introduction to Git ([slides](./w2d1/slides/w2d1_lecture.pdf))
+* Introduction to Git ([slides](./w3d1/slides/w3d1_lecture.pdf))
 
 #### In-Class Exercises
 * [Git Exercise](./w3d1/exercises/rca-git.md)
