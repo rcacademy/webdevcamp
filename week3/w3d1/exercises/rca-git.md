@@ -52,7 +52,7 @@ To practice with the command line, we're going to navigate and manipulate files 
 
 12. Let's make our first commit for our exciting taco delivery startup! This will let you create your own message that will be viewable by yourself and your team in the future along with whatever changes took place in this commit. The `-m` flag stands for message and we pass it a message in quotations.
 
-  `git commit -m "Added tacos.html and tacos.css - free the tacos!"`
+  `git commit -m "Added tacos.html and tacos.css - free the tacos"`
 
 13. Now we can check our status again and we will see that there is nothing new to commit.
 
