@@ -4,7 +4,7 @@ This workshop was created by [@jlord](http://github.com/jlord) on Github to help
 
 ### Installing Git-It
 
-Start off by installing the workshopper by running `npm install git-it` in your terminal.
+Start off by installing the workshopper by running `npm install git-it -g` in your terminal. You might need to use `sudo npm install git-it -g` if you are on a Mac.
 
 ### Working through the exercises
 To pull up the exerices, type in `git-it`. Hit enter on the first one and work through each of them.
