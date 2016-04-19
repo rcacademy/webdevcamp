@@ -3,8 +3,8 @@
 This workshop was created by [@jlord](http://github.com/jlord) on Github to help teach some of the mechanics of git and Github.
 
 ### Installing Git-It
-
 Download Git-it-electron from here, make sure you choose darwin for mac and win32 for windows.
+
 
 [https://github.com/jlord/git-it-electron/releases/tag/3.1.0](https://github.com/jlord/git-it-electron/releases/tag/3.1.0)
 
