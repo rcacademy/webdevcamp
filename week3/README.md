@@ -24,6 +24,13 @@ If you want to be a Git superstar, we encourage you read Pro Git. It is freely a
 
 ### [Class 6 (w3d2): Building a Todo List App](./w3d2)
 
+#### Check Up
+* Has everyone setup their [Github SSH Keys](https://help.github.com/articles/keeping-your-ssh-keys-and-application-access-tokens-safe/)?
+* HTML Profiles pushed up - let us know if you have questions
+* Office Hours Updates
+  * Friday 4/22 3pm - 6pm
+  * Saturday - 10:30am-2pm at **Delamare Library at UNR** on second or third floor. Call or text me if you get lost 775-303-8027.
+
 #### Lecture
 * Using Javascript with HTML ([slides](./w3d2/slides/w3d2_lecture.pdf))
 
