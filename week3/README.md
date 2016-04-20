@@ -25,7 +25,7 @@ If you want to be a Git superstar, we encourage you read Pro Git. It is freely a
 ### [Class 6 (w3d2): Building a Todo List App](./w3d2)
 
 #### Lecture
-* Using Javascript with HTML ([slides](./w3d2/w3d2_lecture.pdf))
+* Using Javascript with HTML ([slides](./w3d2/slides/w3d2_lecture.pdf))
 
 #### In-Class Exercises
 * [jQuery Browser Exercises](http://rcacademy.github.io/jquery-exercise)
