@@ -22,27 +22,28 @@ If you want to be a Git superstar, we encourage you read Pro Git. It is freely a
 
 ---
 
-### [Class 6 (w3d2): Building a Todo List App](./w2d2)
+### [Class 6 (w3d2): Building a Todo List App](./w3d2)
 
 #### Lecture
-* Code along (tba)
+* Using Javascript with HTML ([slides](./w3d2/w3d2_lecture.pdf))
 
 #### In-Class Exercises
-* Todo List App
+* [jQuery Browser Exercises](http://rcacademy.github.io/jquery-exercise)
+* Fork this project: [Todo List App](http://github.com/rcacademy/todolist)
 
-#### Resources
-* [Eloquent Javascript](http://eloquentjavascript.net/)
+#### Homework
+* Practice git & Github :octocat:
 
 ---
 
 ### [Class 6 (w2d3): Using jQuery](./w3d3)
 
 #### Lecture
-* Introduction to jQuery (tba)
+* Continuing jQuery
 
 #### In-Class Exercises
 * jQuery exercises
-* Improving To Do List with jQuery
+* To Do List Part II
 
 #### Homework
 * TBA
