@@ -30,6 +30,8 @@ Make sure that your portfolio website is self contained in a project folder such
 
 5. If you see any issues or make any future updates, you can simply make your changes locally, make a new commit and do another `git push` to update your website!
 
+6. :zap: :zap: :zap: Make sure that your main page is named `index.html` or it will not load when you visit `http://yourusername.github.io`. :zap: :zap: :zap:
+
 ### Bonus: Adding your own domain to Github
 
 If you'd like to point your own domain, like `http://colinloretz.com` to your portfolio page, you can [check out how to do so here](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).

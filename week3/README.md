@@ -46,7 +46,7 @@ If you want to be a Git superstar, we encourage you read Pro Git. It is freely a
 ### [Class 6 (w2d3): Using jQuery](./w3d3)
 
 #### Lecture
-* Continuing jQuery
+* Continuing jQuery ([slides](./w3d3/slides/w3d3_lecture.pdf))
 
 #### In-Class Exercises
 * jQuery exercises
