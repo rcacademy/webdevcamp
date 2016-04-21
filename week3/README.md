@@ -43,14 +43,15 @@ If you want to be a Git superstar, we encourage you read Pro Git. It is freely a
 
 ---
 
-### [Class 6 (w2d3): Using jQuery](./w3d3)
+### [Class 6 (w2d3): Extending our To Do List App](./w3d3)
 
 #### Lecture
-* Continuing jQuery ([slides](./w3d3/slides/w3d3_lecture.pdf))
+* Extending our To Do List App ([slides](./w3d3/slides/w3d3_lecture.pdf))
 
 #### In-Class Exercises
-* jQuery exercises
-* To Do List Part II
+* [To Do List Day I & II](http://github.com/rcacademy/todolist)
 
 #### Homework
-* TBA
+* To Do List Refactoring & Practice
+  * Can you make something simpler or using fewer elements?
+  * Try to rebuild it from scratch
