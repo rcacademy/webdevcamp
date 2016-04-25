@@ -59,7 +59,7 @@ We will be hosting online office hours frequently on Slack. Feel free to post qu
 |--------|-----------|----------|
 | ~~4/4: [Introduction to HTML](./week1)~~    | ~~4/6: [HTML & Introduction CSS](./week1)~~    | ~~4/7: [HTML & CSS Project](./week1)~~      |
 | ~~4/11: [CSS Frameworks](./week2)~~ | ~~4/13: [Introduction to Javascript](./week2)~~ | ~~4/14: [Javascript & Bootstrap](./week2)~~ |
-| ~[4/18: Javascript & Git/Github](./week3)~  | ~[4/20: Building a Todo List App](./week3)~ | ~[4/21: Building with JQuery](./week3)~ |
+| ~~[4/18: Javascript & Git/Github](./week3)~~  | ~~[4/20: Building a Todo List App](./week3)~~ | ~~[4/21: Building with JQuery](./week3)~~ |
 | 4/25: [JQuery Exercises](./week4) | 4/27: [TBA](./week4) | 4/28: [TBA](./week4) |
 | 5/2: Introduction to Ruby | 5/4: Ruby Concepts | 5/5: Using Ruby Gems |
 | 5/9: Introduction to Rails | 5/11: Pinterest Project | 5/12: Persisting Data with Databases |
