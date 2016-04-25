@@ -14,6 +14,7 @@
 
 ##### Homework
 * [Try jQuery](http://try.jquery.com/)
+* [Try Git](https://try.github.io/)
 
 ---
 
