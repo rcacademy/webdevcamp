@@ -13,8 +13,8 @@
 
 
 ##### Homework
-* [Try jQuery](http://try.jquery.com/)  
-* Read over the code for the [localstorage version](https://github.com/rcacademy/todolist/tree/localstorage) of the To Do List app
+* [Try jQuery](http://try.jquery.com/)
+
 ---
 
 ### [Class 11 (w4d2): jQuery & Javascript](./w4d2)
