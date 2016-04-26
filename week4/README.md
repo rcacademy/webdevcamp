@@ -8,13 +8,11 @@
 #### In-Class Exercises
 * Update your To Do List app to use Bower
 * Add editing to your To Do List
-* Add Local Storage to your To Do List
-* Add one or more terms to the [Buzzword dictionary](https://github.com/rcacademy/buzzwords) using a pull request
-
 
 ##### Homework
 * [Try jQuery](http://try.jquery.com/)
 * [Try Git](https://try.github.io/)
+* Add one or more terms to the [Buzzword dictionary](https://github.com/rcacademy/buzzwords) using a pull request
 
 ---
 
