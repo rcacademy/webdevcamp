@@ -16,10 +16,10 @@
 
 ---
 
-### [Class 11 (w4d2): jQuery & Javascript](./w4d2/slides/w4d2_lecture.pdf)
+### [Class 11 (w4d2): jQuery & Javascript](./w4d2)
 
 #### Lecture
-* Building Tic-Tac-Toe ([slides]())
+* Building Tic-Tac-Toe ([slides](./w4d2/slides/w4d2_lecture.pdf))
 
 #### In-Class Project
 * [jQuery Tic-Tac-Toe Project](http://github.com/rcacademytictactoe)
