@@ -16,24 +16,28 @@
 
 ---
 
-### [Class 11 (w4d2): jQuery & Javascript](./w4d2)
+### [Class 11 (w4d2): jQuery & Javascript](./w4d2/slides/w4d2_lecture.pdf)
 
 #### Lecture
-* jQuery Tic Tac Toe & Sound Machine
+* Building Tic-Tac-Toe ([slides]())
 
 #### In-Class Project
-* jQuery Tic Tac Toe & Sound Machine
+* [jQuery Tic-Tac-Toe Project](http://github.com/rcacademytictactoe)
 
+#### Homework
+* Submit a pull request to [Buzzwords](https://github.com/rcacademy/buzzwords)
+* Finish Tic-Tac-Toe Project
 
 ---
 
-### [Class 12 (w4d3): jQuery & Javascript](./w4d3)
+### [Class 12 (w4d3): APIs and jQuery](./w4d3)
 
 #### Lecture
-* jQuery Tic Tac Toe & Sound Machine
+* What is an API?
+* Using APIs with jQuery
 
 #### In-Class Exercises
-* jQuery Tic Tac Toe & Sound Machine
+* Weather API Widget
 
 #### Homework
-* Customize the sound machine!
+* Customize and design your weather widget
