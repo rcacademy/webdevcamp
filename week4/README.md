@@ -22,7 +22,7 @@
 * Building Tic-Tac-Toe ([slides](./w4d2/slides/w4d2_lecture.pdf))
 
 #### In-Class Project
-* [jQuery Tic-Tac-Toe Project](http://github.com/rcacademytictactoe)
+* [jQuery Tic-Tac-Toe Project](http://github.com/rcacademy/tictactoe)
 
 #### Homework
 * Submit a pull request to [Buzzwords](https://github.com/rcacademy/buzzwords)
