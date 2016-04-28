@@ -33,11 +33,12 @@
 ### [Class 12 (w4d3): APIs and jQuery](./w4d3)
 
 #### Lecture
-* What is an API?
-* Using APIs with jQuery
+* Using APIs with jQuery ([slides](./w4d3/slides/w4d3_lecture.pdf))
+* Weather Demo
 
 #### In-Class Exercises
-* Weather API Widget
+* [Github API Project](./w4d3/exercises/githubapi.md)
 
 #### Homework
-* Customize and design your weather widget
+* Finish the Github API Project
+* Build a [weather widget](./w4d3/exercises/weather.md)
