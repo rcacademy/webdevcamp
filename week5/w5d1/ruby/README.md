@@ -32,7 +32,7 @@ Variables allow us to store values for later use. Variables are created by setti
 ```ruby
 name = "Colin"    # string
 blackjack = 21    # integer
-blackjack = 2.5   # float
+change = 2.5   # float
 ```
 
 There are other variable types that we will explore later.
