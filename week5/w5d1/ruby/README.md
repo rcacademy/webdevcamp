@@ -269,7 +269,7 @@ puts("All done!")
 
 ```ruby
 def ask_for_name
-  put "What is your name?"
+  puts "What is your name?"
   name = gets.chomp
 end
 ```
@@ -280,7 +280,7 @@ You can return a value from a method by using the `return` keyword.
 
 ```ruby
 def ask_for_name
-  put "What is your name?"
+  puts "What is your name?"
   name = gets.chomp
   return name
 end
@@ -290,7 +290,7 @@ It is also important to note that omitting the return keyword also works so long
 
 ```ruby
 def ask_for_name
-  put "What is your name?"
+  puts "What is your name?"
   name = gets.chomp
   name  # returns name
 end
