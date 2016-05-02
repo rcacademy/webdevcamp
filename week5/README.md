@@ -6,9 +6,9 @@
 * Backend Development with Ruby([slides](./w5d1/slides/w5d1_lecture.pdf))
 
 #### In-Class Exercises
-* [Ruby Notes](./ruby)
+* [Ruby Notes](./w5d1/ruby)
 * [Try Ruby](http://tryruby.org/)
-* [Ruby Exercises](./exercises)
+* [Ruby Exercises](./w5d1/exercises)
 
 ##### Homework
 * https://pine.fm/LearnToProgram/ chapters 0-8
