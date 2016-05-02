@@ -3,7 +3,7 @@
 ### [Class 13 (w5d1): Introduction to Ruby](./w5d1)
 
 #### Lecture
-* Backend Development with Ruby([slides](./w5d1/slides/w5d1_lecture.pdf))
+* Backend Development with Ruby
 
 #### In-Class Exercises
 * [Ruby Notes](./w5d1/ruby)
