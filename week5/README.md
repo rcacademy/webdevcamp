@@ -37,7 +37,7 @@
 
 ---
 
-### [Class 15 (w2d3): Ruby and Ruby Gems](./w2d3)
+### [Class 15 (w5d3): Ruby and Ruby Gems](./w5d3)
 
 #### Lecture
 * Using Gems with Ruby ([slides](./w5d3/slides/w5d3_lecture.pdf))
