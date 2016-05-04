@@ -27,13 +27,20 @@
 ### [Class 14 (w5d2): Ruby II](./w5d2)
 
 #### Lecture
-* Intermediate Ruby
+* Intermediate Ruby ([slides](./w5d2/slides/w5d2_lecture.pdf))
 
 #### In-Class Exercises
-* TBA
+* [Ruby Exercises](./w5d2/exercises)
+
+#### Homework
+* [Ruby Monk](https://rubymonk.com/)
+  * **Ruby Primer** section:
+    * Introduction to Lambdas and Blocks
+    * Classes & Object Oriented Programming in Ruby
+    * Introduction to Modules
 
 #### Resources
-* TBA
+* [why's poignant guide to ruby](http://poignant.guide/)
 
 ---
 
