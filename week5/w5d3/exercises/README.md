@@ -25,13 +25,38 @@ In a new project, create a Gemfile with bundler by typing `bundle init`.
 
 Edit the Gemfile that it creates.
 
-#### Exercise :runner:
+Add the gems you will be using in your project.
 
-:warning:
+```ruby
+source "https://rubygems.org"
+gem 'json'
+gem 'chronic'
+```
+
+Now this file can be committed to version control with your project so that other developers can easily install the required dependencies.
+
+When you select a gem, you can also indicate what version of the gem you are using. If you are using the latest version, you can see the Gemfile string in RubyGems when you search for each gem, it will look something like this: `gem 'json', '~> 1.8', '>= 1.8.3'`.
+
+Once you've added your gems to the Gemfile, save it and run `bundle install` in your console in that directory. This will install the gems required for this project and create a `Gemfile.lock` file in your directory.
+
+You can then include the gems from this bundle in your project before you require the gems.
+
+```ruby
+require 'bundler/setup'
+require 'json'
+require 'chronic'
+```
+
+We will explore Bundler with the Gemfile and importance of Gemfile.lock more once we get to Ruby on Rails.
+
+---
 
 ### json :star:
 
+The aptly named **json** gem will let us parse and create JSON. This is particularly useful when we are working with APIs for sending and receiving JSON data.
+
 #### RubyGems
+[https://rubygems.org/gems/json](https://rubygems.org/gems/json)
 
 #### Documentation
 [https://flori.github.io/json/doc/index.html](https://flori.github.io/json/doc/index.html)
@@ -60,8 +85,11 @@ Create a ruby app that has an array of hashes, include whatever data you'd like.
 ```
 3. Loop over each TA and print their name to the screen.
 
+---
 
 ### HTTParty :tada:
+
+HTTParty is one of many gems designed to make working with APIs easier. It will allow us to make REST API calls from Ruby with syntax that is easy to read and write.
 
 #### RubyGems
 [https://rubygems.org/gems/httparty](https://rubygems.org/gems/httparty)
@@ -81,8 +109,11 @@ puts response.code
 #### Exercise :runner:
 Create a new ruby app that has a method for calling out to the [Open Weather Map API](http://openweathermap.org/) and print out the current temperature to the console in Fahrenheit. TIP: Keep in mind that the data that comes back from this API is in JSON.
 
+---
 
 ### Chronic :calendar:
+
+Dealing with time and dates can be one of the more frustrating things you will do as a developer. The **chronic** gem exists to make parsing natural language time and date strings into Time objects that we can use in our applications.
 
 #### RubyGems
 [https://rubygems.org/gems/chronic](https://rubygems.org/gems/chronic)
@@ -109,6 +140,7 @@ Chronic.parse('this tuesday 5:00')
 * Require Chronic
 * Try out parsing various natural language dates and times to see the output
 
+---
 
 ### Sinatra :shipit:
 
