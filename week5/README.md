@@ -50,7 +50,7 @@
 * Using Gems with Ruby ([slides](./w5d3/slides/w5d3_lecture.pdf))
 
 #### In-Class Exercises
-* [Gems!](./w5d3/exercises/readme.md)
+* [Gems!](./w5d3/exercises)
 
 #### Homework
 * [why's poignant guide to ruby](http://poignant.guide/)
