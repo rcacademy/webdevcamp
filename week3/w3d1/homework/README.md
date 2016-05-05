@@ -22,7 +22,7 @@ Make sure that your portfolio website is self contained in a project folder such
 
   ![add your username](./yourusername.png)
 
-2. Take the git url from the newly created repository and add it as a remote to your local git directory: `git add remote origin git@github.com:yourusername/yourusername.github.io.git`.
+2. Take the git url from the newly created repository and add it as a remote to your local git directory: `git remote add origin git@github.com:yourusername/yourusername.github.io.git`.
 
 3. Push your portfolio page up to Github with `git push origin master`.
 
