@@ -104,7 +104,7 @@ end
 
 ```
 
-Put the above code in a file called `hi.rb` and run `ruby hi.rb`.  Then go to [http://localhot:4567](http://localhot:4567) to check out your web server running on Sinatra. You will get an error until you navigate to [http://localhot:4567/hi](http://localhot:4567/hi).
+Put the above code in a file called `hi.rb` and run `ruby hi.rb`.  Then go to [http://localhost:4567](http://localhost:4567) to check out your web server running on Sinatra. You will get an error until you navigate to [http://localhot:4567/hi](http://localhost:4567/hi).
 
 #### Exercise :runner:
 
@@ -121,7 +121,7 @@ Create a ruby project that has a Gemfile and uses Sinatra.
 * Go add Bootstrap's CSS to your index.html
 * Change the string you are returning with the line `send_file 'index.html'` to tell Sinatra to respond with that HTML page
 
-If everything is setup, you should be able to start the app again and see your index.html page rendered by the Sinatra server when you navigate to the localhost url: [http://localhot:4567](http://localhot:4567).
+If everything is setup, you should be able to start the app again and see your index.html page rendered by the Sinatra server when you navigate to the localhost url: [http://localhost:4567](http://localhost:4567).
 
 ##### Adding weather to our app :sunny:
 Now add another route to our Sinatra app for `get '/weather'`. You will use what you've learned from the other gems to use all the gems together. Add a method that gets the temperature for Reno and returns a string to the browser with that current temperature.
