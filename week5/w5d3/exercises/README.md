@@ -81,6 +81,35 @@ puts response.code
 #### Exercise :runner:
 Create a new ruby app that has a method for calling out to the [Open Weather Map API](http://openweathermap.org/) and print out the current temperature to the console in Fahrenheit. TIP: Keep in mind that the data that comes back from this API is in JSON.
 
+
+### Chronic :calendar:
+
+#### RubyGems
+[https://rubygems.org/gems/chronic](https://rubygems.org/gems/chronic)
+
+#### Documentation
+[http://www.rubydoc.info/gems/chronic/0.10.2](http://www.rubydoc.info/gems/chronic/0.10.2)
+
+#### Usage
+```ruby
+require 'chronic'
+
+Time.now   #=> Sun Aug 27 23:18:25 PDT 2006
+
+Chronic.parse('tomorrow')
+#=> Mon Aug 28 12:00:00 PDT 2006
+
+Chronic.parse('this tuesday 5:00')
+#=> Tue Aug 29 17:00:00 PDT 2006
+```
+
+#### Exercise :runner:
+* Install Chronic with `gem install chronic`
+* Launch irb in the console using `irb`
+* Require Chronic
+* Try out parsing various natural language dates and times to see the output
+
+
 ### Sinatra :shipit:
 
 Sinatra is going to be our first foray into the world of web development with Ruby. So far, we've only built apps that run in our console, with Sinatra, we can build a very lightweight and simple web application.
