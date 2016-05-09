@@ -62,7 +62,7 @@ We will be hosting online office hours frequently on Slack. Feel free to post qu
 | ~~[4/18: Javascript & Git/Github](./week3)~~  | ~~[4/20: Building a Todo List App](./week3)~~ | ~~[4/21: Building with JQuery](./week3)~~ |
 | ~~4/25: [jQuery & Javascript](./week4)~~ | ~~4/27: [Tic Tac Toe](./week4)~~ | ~~4/28: [APIs and jQuery](./week4)~~ |
 | ~~5/2: [Introduction to Ruby](./week5)~~ | ~~5/4: [Ruby Concepts](./week5)~~ | ~~5/5: [Using Ruby Gems](./week5)~~ |
-| 5/9: [Understanding Ruby](./week6) | 5/11: [Intro to Rails: Blog(./week6)] | 5/12: [Ruby on Rails: Blog](./week6) |
+| 5/9: [Understanding Ruby](./week6) | 5/11: [Intro to Rails: Blog](./week6) | 5/12: [Ruby on Rails: Blog](./week6) |
 | 5/16: Pinterest Project | 5/18: Pinterest Project | 5/19: Pinterest Project |
 | 5/23: Twitter | 5/25: Twitter | 5/26: Sending Emails |
 | 5/30: Making a review website | 6/1: Review Website Project | 6/2: Finish Review Project |

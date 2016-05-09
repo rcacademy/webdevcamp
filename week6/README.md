@@ -6,6 +6,7 @@
 * Object Oriented Programming in Ruby ([slides](./w6d1/slides/w6d1_lecture.pdf))
 
 #### Exercises
+* [Tripmeter Example](./w6d1/tripmeter.md)
 * [Bank Account Project](./w6d1/exercises/bank.md)
 
 #### Homework
@@ -28,14 +29,10 @@ These are essential concepts for you to understand going forward. This might loo
 * [Quiz: Iteration & Nested Data Structures](http://www.codequizzes.com/learn-ruby/iteration-nested-data-structures)
 * [Quiz: Modules, Classes, Inheritance](http://www.codequizzes.com/learn-ruby/modules-classes-inheritance)
 
-#### Even More Resources
-
-If you're hooked or want to understand something even more, check out these great article at Zetcode.
-
-##### More Reading
+#### More Resources
+If you're hooked and want to understand even more, check out these great articles:
 * [Variables by Zetcode](http://zetcode.com/lang/rubytutorial/variables/)
 * [OOP by Zetcode](http://zetcode.com/lang/rubytutorial/oop/)
-
 
 ---
 
