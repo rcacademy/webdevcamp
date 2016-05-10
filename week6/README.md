@@ -6,7 +6,7 @@
 * Object Oriented Programming in Ruby ([slides](./w6d1/slides/w6d1_lecture.pdf))
 
 #### Exercises
-* [Tripmeter Example](./w6d1/tripmeter.md)
+* [Tripmeter Example](./w6d1/tripmeter.rb)
 * [Bank Account Project](./w6d1/exercises/bank.md)
 
 #### Homework
