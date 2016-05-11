@@ -39,23 +39,24 @@ If you're hooked and want to understand even more, check out these great article
 ### [Class 17 (w6d2): Introduction to Ruby on Rails](./w6d2)
 
 #### Lecture
-* TBA
+* Introduction to Rails ([slides](./w6d2/slides/w6d2_lectures.pdf))
 
 #### Exercises
-* TBA
+* Installing Rails
 
 #### Homework
-* TBA
+* [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
+  * We covered through 5.7 in lecture today
 
 ---
 
 ### [Class 18 (w6d3): Ruby on Rails](./w6d3)
 
 #### Lecture
-* TBA
+* Continuing Ruby on Rails
 
 #### Exercises
 * TBA
 
 #### Homework
-* TBA
+* [Rails for Zombies](http://railsforzombies.org)
