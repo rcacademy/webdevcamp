@@ -15,7 +15,7 @@ These are essential concepts for you to understand going forward. This might loo
 
 ##### Readings
 * [Ruby Explained: Conditionals & Flow Control](http://www.eriktrautman.com/posts/ruby-explained-conditionals-and-flow-control)
-* [Ruby Explained: Iteration](http://www.eriktrautman.com/posts/ruby-explained-conditionals-and-flow-control)
+* [Ruby Explained: Iteration](http://www.eriktrautman.com/posts/ruby-explained-iteration)
 * [Ruby Explained: Blocks, Procs and Lambdas](http://www.eriktrautman.com/posts/ruby-explained-blocks-procs-and-lambdas-aka-closures)
 * [Ruby Explained: Map, Select and Other Enumerables](http://www.eriktrautman.com/posts/ruby-explained-map-select-and-other-enumerable-methods)
 * [Ruby Explained: Writing and Running Ruby Methods ](http://www.eriktrautman.com/posts/ruby-explained-writing-and-running-methods)
