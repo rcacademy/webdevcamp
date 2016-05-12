@@ -53,10 +53,10 @@ If you're hooked and want to understand even more, check out these great article
 ### [Class 18 (w6d3): Ruby on Rails](./w6d3)
 
 #### Lecture
-* Continuing Ruby on Rails
+* Continuing Ruby on Rails ([slides](./w6d3/slides/w6d3_lecture.pdf))
 
 #### Exercises
-* TBA
+* Work through [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
 
 #### Homework
 * [Rails for Zombies](http://railsforzombies.org)
