@@ -62,13 +62,13 @@ We will be hosting online office hours frequently on Slack. Feel free to post qu
 | ~~[4/18: Javascript & Git/Github](./week3)~~  | ~~[4/20: Building a Todo List App](./week3)~~ | ~~[4/21: Building with JQuery](./week3)~~ |
 | ~~4/25: [jQuery & Javascript](./week4)~~ | ~~4/27: [Tic Tac Toe](./week4)~~ | ~~4/28: [APIs and jQuery](./week4)~~ |
 | ~~5/2: [Introduction to Ruby](./week5)~~ | ~~5/4: [Ruby Concepts](./week5)~~ | ~~5/5: [Using Ruby Gems](./week5)~~ |
-| 5/9: [Understanding Ruby](./week6) | 5/11: [Intro to Rails: Blog](./week6) | 5/12: [Ruby on Rails: Blog](./week6) |
-| 5/16: Pinterest Project | 5/18: Pinterest Project | 5/19: Pinterest Project |
-| 5/23: Twitter | 5/25: Twitter | 5/26: Sending Emails |
-| 5/30: Making a review website | 6/1: Review Website Project | 6/2: Finish Review Project |
-| 6/6: Creating Real Time Chat | 6/8: Creating Real Time Chat | 6/9: Creating Real Time Chat |
-| 6/13: Programming Languages  | 6/15: Tools, Tools, Tools | 6/16: Databases and Chasing Shiny Things |
-| 6/20: Creating a Portfolio | 6/22: Interviewing Methods & Exercises | 6/23: Mock Interviews |
+| ~~5/9: [Understanding Ruby](./week6)~~ | ~~5/11: [Intro to Rails: Blog](./week6)~~ | ~~5/12: [Ruby on Rails: Blog](./week6)~~ |
+| 5/16: [Models & Rails](./week7) | 5/18: Pinterest Project | 5/19: Pinterest Project |
+| 5/23: Pinterest Project | 5/25: Pinterest Project | 5/26: Pinterest Project |
+| 5/30: Slack Bots | 6/1: Slack Bots | 6/2: Slack Bots |
+| 6/6: Slack Bots | 6/8: Building Twitter | 6/9: Building Twitter |
+| 6/13: Building Twitter  | 6/15: Building Twitter | 6/16: Building Twitter |
+| 6/20: Building Twitter | 6/22: Portfolio & Interviewing Method | 6/23: Mock Interviews |
 
 ## Fixes and Changes to the Curriculum
 Again, this is going to be a living document for the duration of this class. It has been written specifically for this class and while we've tried to get it right on the first go, there might be some mistakes.
