@@ -17,6 +17,9 @@ To practice Ruby on Rails, we'd like you to build a new Rails app that includes:
 
 3. Set the root route to `'home#index'` in `config/routes.rb`
 
+4. Create a new repository on your github, setup git in your new Rails project and add the origin remote and push your current progress to your repository.
+
+5. As you add new features, be sure to push to your repository
 
 ### Adding Bootstrap to your project
 
