@@ -16,13 +16,13 @@
 ### [Class 20 (w7d2): Pinteresting Clone](./w7d2)
 
 #### Lecture
-* Introduction to Devise
+* Introduction to Devise ([slides](./w7d2/slides/w7d2_lecture.pdf))
 
 #### Project
-* Start [Pinterest Project](#)
+* Start [Pinterest Project](https://github.com/rcacademy/pinteresting)
 
 #### Homework
-* [Pinterest Project](#)
+* [Pinterest Project](https://github.com/rcacademy/pinteresting)
 
 ---
 
@@ -32,7 +32,4 @@
 * Introduction to Deployment
 
 #### Project
-* [Pinterest Project](#)
-
-#### Homework
-* [Pinterest Project](#)
+* [Pinterest Project](https://github.com/rcacademy/pinteresting)
