@@ -29,7 +29,7 @@
 ### [Class 21 (w7d3): Pinterest Clone & Deployment](./w7d3)
 
 #### Lecture
-* Introduction to Deployment
+* [Introduction to Deployment with Heroku](https://github.com/rcacademy/pinteresting/heroku.md)
 
 #### Project
 * [Pinterest Project](https://github.com/rcacademy/pinteresting)
