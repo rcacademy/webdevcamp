@@ -13,11 +13,9 @@
 ### [Class 23 (w8d2): Pinterest Project](./w8d2)
 
 #### Lecture
-* Databases
 * Masonry
 
 #### Exercises
-* Add comments to your [Pinterest Project](http://github.com/rcacademy/pinteresting)
 * [MasonryJS](http://masonry.desandro.com/)
 
 ---
@@ -25,7 +23,8 @@
 ### [Class 24 (w8d3): Pinterest Project](./w8d3)
 
 #### Lecture
-* Sending Email
+* ActiveRecord Querying & Associations
+* Databases
 
 #### Exercises
-* Setup up email for your [Pinterest Project](http://github.com/rcacademy/pinteresting)
+* Add comments to your [Pinterest Project](http://github.com/rcacademy/pinteresting)

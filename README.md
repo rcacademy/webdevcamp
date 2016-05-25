@@ -65,10 +65,10 @@ We will be hosting online office hours frequently on Slack. Feel free to post qu
 | ~~5/9: [Understanding Ruby](./week6)~~ | ~~5/11: [Intro to Rails: Blog](./week6)~~ | ~~5/12: [Ruby on Rails: Blog](./week6)~~ |
 | ~~5/16: [Models & Rails](./week7)~~ | ~~5/18: [Pinterest Project](./week7)~~ | ~~5/19: [Pinterest Project](./week7)~~ |
 | 5/23: [Pinterest Project](./week8) | 5/25: [Pinterest Project](./week8) | 5/26: [Pinterest Project](./week8) |
-| 5/30: Slack Bots | 6/1: Slack Bots | 6/2: Slack Bots |
-| 6/6: Slack Bots | 6/8: Building Twitter | 6/9: Building Twitter |
-| 6/13: Building Twitter  | 6/15: Building Twitter | 6/16: Building Twitter |
-| 6/20: Building Twitter | 6/22: Portfolio & Interviewing Method | 6/23: Demo Night!|
+| 5/30: Office Hours @ Innevation | 6/1: Pinterest | 6/2: Pinterest |
+| 6/6: Pinterest | 6/8: Pinterest | 6/9: Pinterest |
+| 6/13: Slack Bots  | 6/15: Slack Bots | 6/16: Slack Bots |
+| 6/20: Guests | 6/22: Portfolio & Interviewing Methods | 6/23: Demo Night!|
 
 ## Fixes and Changes to the Curriculum
 Again, this is going to be a living document for the duration of this class. It has been written specifically for this class and while we've tried to get it right on the first go, there might be some mistakes.
