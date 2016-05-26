@@ -36,6 +36,7 @@ While these were published to be quizzes, we're going to use them to observe the
 * [Two Table Queries](http://www.codequizzes.com/learn-sql-with-rails/has-many-belongs-to-includes-queries) - has_many, belongs_to, includes
 * [Joins](http://www.codequizzes.com/learn-sql-with-rails/has-many-through-join-queries) - has_many :through join queries
 * [Intermediate Queries](http://www.codequizzes.com/learn-sql-with-rails/where-order-limit-offset-queries) - WHERE, ORDER BY, LIMIT, OFFSET
+* Work on Pinteresting
 
 #### Homework
 * [Try SQL](https://www.codeschool.com/courses/try-sql)
