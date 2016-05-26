@@ -37,8 +37,8 @@ While these were published to be quizzes, we're going to use them to observe the
 * [Joins](http://www.codequizzes.com/learn-sql-with-rails/has-many-through-join-queries) - has_many :through join queries
 * [Intermediate Queries](http://www.codequizzes.com/learn-sql-with-rails/where-order-limit-offset-queries) - WHERE, ORDER BY, LIMIT, OFFSET
 
-
 #### Homework
+* [Try SQL](https://www.codeschool.com/courses/try-sql)
 * Add comments to your [Pinterest Project](http://github.com/rcacademy/pinteresting)
 
 #### Mini Project
