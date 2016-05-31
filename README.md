@@ -66,8 +66,8 @@ We will be hosting online office hours frequently on Slack. Feel free to post qu
 | ~~5/16: [Models & Rails](./week7)~~ | ~~5/18: [Pinterest Project](./week7)~~ | ~~5/19: [Pinterest Project](./week7)~~ |
 | 5/23: [Pinterest Project](./week8) | 5/25: [Pinterest Project](./week8) | 5/26: [Pinterest Project](./week8) |
 | 5/30: Office Hours @ Innevation | 6/1: Pinterest | 6/2: Pinterest |
-| 6/6: Pinterest | 6/8: Pinterest | 6/9: Pinterest |
-| 6/13: Slack Bots  | 6/15: Slack Bots | 6/16: Slack Bots |
+| 6/6: Slack Bots | 6/8: Slack Bots | 6/9: Slack Bots |
+| 6/13: Pinterest  | 6/15: Pinterest | 6/16: Pinterest |
 | 6/20: Guests | 6/22: Portfolio & Interviewing Methods | 6/23: Demo Night!|
 
 ## Fixes and Changes to the Curriculum
