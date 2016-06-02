@@ -1,16 +1,16 @@
 # Week 9
 
-### [Class 25 (w9d1): Office Hours](./w8d1)
+### [Class 25 (w9d1): Office Hours](./w9d1)
 
 ### Office Hours
 * Memorial Day!
 
 ---
 
-### [Class 26 (w9d2): S#](./w8d2)
+### [Class 26 (w9d2): S#](./w9d2)
 
 ####  Lecture
-* S3 Recap & Manipulating Devise ([slides](./w8d2/slides/w8d2_lecture.pdf))
+* S3 Recap & Manipulating Devise ([slides](./w9d2/slides/w9d2_lecture.pdf))
 
 #### Exercise
 * Setup a user profile page
@@ -27,13 +27,14 @@
 
 ---
 
-### [Class 27 (w9d3): Adding features to Pinterest](./w8d3)
+### [Class 27 (w9d3): Working through Issues & Caesar Cipher](./w9d3)
 
 #### Lecture
-* TBA
+* Working through Issues & Caesar Cipher ([slides](./w9d3/slides/w9d3))
 
 #### Exercise
 * Work on Pinteresting
 
 #### Homework
-* TBA
+* Work on your Pinterest features through video 7
+* Polish your design
