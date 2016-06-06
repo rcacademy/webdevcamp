@@ -1,6 +1,5 @@
 # Building a Slack Bot with Slash Commands
 
-
 ## Various Slack Bots
 There are a few different ways to interact with Slack and the Slack API.
 
@@ -17,6 +16,18 @@ These webhook integrations allow other services to send updates and data to Slac
 ### Real Time Messaging (RTM) Bots
 Finally, we can also build RTM bots that sit inside of slack and look just like a user. They have the ability to come online, go to "away" mode or go offline and you can chat with them as you might with another human user by using their `@` name. In our pizza delivery example, we might have a bot user called **pizzadelivery** so we could chat with the user to order a pizza. `@pizzadelivery order a large pizza` and it can have a conversation with you to ask more questions. In this example, we might ask what toppings they want and where to deliver and charge the pizza to.
 
+
+# Your Mission
+Your mission, should you choose to accept it, is to build a slash command bot similar to the one outlined below.
+
+- [ ] Think about what kind of bot you would use day to day in Slack
+- [ ] Find an API that would allow you get data from the outside world (weather, bitcoin, github, etc)
+- [ ] Allow a user to enter a slash command with one or more parameters
+- [ ] You don't have to use an API if you have another novel idea for a bot but it is highly encouraged. A tip calculator would be pretty cool though.
+
+Weather examples: `/weather 89509` or `/weather today 89509`
+
+As always, should you or any of your I.M. Force be caught or killed, the Secretary will disavow any knowledge of your actions. This disc will self-destruct in five seconds. Good luck.
 
 ## Getting started
 We are going to build a simple slash command bot using Ruby and the Sinatra framework.
