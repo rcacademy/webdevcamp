@@ -27,6 +27,8 @@ Your mission, should you choose to accept it, is to build a slash command bot si
 
 Weather examples: `/weather 89509` or `/weather today 89509`
 
+Below is an example of a simple version of a bot. For a more advanced bot using the Github API, [check out this tutorial on Sitepoint](https://www.sitepoint.com/building-a-slackbot-with-ruby-and-sinatra/).
+
 As always, should you or any of your I.M. Force be caught or killed, the Secretary will disavow any knowledge of your actions. This disc will self-destruct in five seconds. Good luck.
 
 ## Getting started
