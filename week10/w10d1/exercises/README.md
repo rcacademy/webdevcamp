@@ -125,7 +125,7 @@ To https://git.heroku.com/btcspotbot.git
    883ee7a..e5b9ad5  master -> master
 ```
 
-#### Register our slash command bot with Slack
+### Register our slash command bot with Slack
 
 Go to the [Apps & Integrations](https://rcacademy.slack.com/apps) setting menu in Slack. Click on **Build** in the top left navigation and select **"Something just for my team"** and click on "Make a Custom Integration".
 
@@ -143,33 +143,35 @@ Continue further to **Integration Settings**.
 
 Here we will setup our bot and get our Slack API token for this slash command.
 
-##### URL
+#### URL
 Take the URL of your Heroku app (https://btcspotbot.herokuapp.com/) and add the name of the path in our app (/process_command) to give us a full url of `https://btcspotbot.herokuapp.com/process_command` and enter it in the URL setting.
 
-##### Method
+#### Method
 Keep the **method** set as `POST`.
 
-##### Token
+#### Token
 Take note of the **token** that Slack is providing to us. We can copy and paste it from here or regenerate a new one.
 
-##### Customize Name
+#### Customize Name
 Give your slash command a name. This will be the name of the bot user that responds with your bot's message.
 
-##### Customize Icon
+#### Customize Icon
 Give your bot some character by uploading a photo or selecting an emoji :robot_face:.
 
-##### Autocomplete help text
+#### Autocomplete help text
 Now we can give your awesome slash command some preview text. This text exists to tell your users what they can do with your slash command.
 
-##### Descriptive Label
+#### Descriptive Label
 
 Go ahead and give your bot a description that tells us what it does but also who made it. Add your name!
 
+
+### Save Integration
 Finally, click **Save Integration**.
 
 :warning: Your bot won't work yet! We need to set your Slack Token in the Heroku environment variables.
 
-#### Adding your Slack token
+### Adding your Slack token
 
 In our example app above, we have a check on the first line of our `/process_comamnd` method that checks to see if the token that Slack sends us matches the token that we are using for our app. This token is given to us by Slack when we created our slash command integration. We `return` immediately if the tokens do not match (or if the `SLACK_TOKEN` environment variable is empty).
 
@@ -185,7 +187,7 @@ heroku config:set SLACK_TOKEN=XXXXXXYYYYYYZZZZZZ
 
 You should now be able to try out your slash command in Slack!
 
-#### Debugging your Slack Bot
+### Debugging your Slack Bot
 
 You can view the logs of your bot from your terminal with:
 
