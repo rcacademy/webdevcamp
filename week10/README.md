@@ -16,10 +16,10 @@
 ### [Class 29 (w10d2): Real Time Chatting](./w10d2)
 
 ####  Lecture
-* Real Time Messaging (RTM) Bot
+* [Real Time Messaging (RTM) Bot](./w10d2/slides/w10d2_lecture.pdf)
 
 #### Exercise
-* Setup an RTM Bot
+* [Setup an RTM Bot](./w10d2/exercises)
 
 ---
 
@@ -30,6 +30,7 @@
 
 #### Exercise
 * Work on RTM Bot and add basic AI
+* Deploy your bot to Heroku
 
 #### Homework
 * Work on RTM Bot and !Pinterest
