@@ -26,11 +26,10 @@
 ### [Class 30 (w10d3): Real Time Bots!](./w10d3)
 
 #### Lecture
-* Adding intelligence to your bot
+* Live Demo - Using API.AI
 
 #### Exercise
-* Work on RTM Bot and add basic AI
-* Deploy your bot to Heroku
+* [Work with API.AI](./w10d3/exercises)
 
 #### Homework
 * Work on RTM Bot and !Pinterest
