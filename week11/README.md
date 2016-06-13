@@ -1,5 +1,9 @@
 # Week 11
 
+### Resources
+* VIDEO: [Understanding Rails Nested Resources](https://www.youtube.com/watch?v=T0lcUENA8zs)
+
+
 ### [Class 31 (w11d1): Extending our Models: Repinning](./w11d1)
 
 ### Lecture
@@ -32,7 +36,6 @@
 * More Active Record Associations & Routes ([slides](./w11d3/slides/w11d3_lecture.pdf))
 
 #### Exercise
-* VIDEO: [Rails Nested Resources](https://www.youtube.com/watch?v=T0lcUENA8zs)
 * [Add Boards to Pinteresting](./w11d3/exercises)
 
 #### Homework
