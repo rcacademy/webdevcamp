@@ -1,8 +1,12 @@
 # Adding Repinning to Your Project
 
-Pinterest allows users to repin the pins of other users to their own profile.
+Pinterest allows users to repin the pins of other users to their own profile and it is one of the biggest reasons for its success. Users can find new content from other users and share it with their own social network.
 
-We will be covering each of these steps in the lecture but the core method to look at is `def repost(user_object)`. It allows us to take an existing post, duplicate it and repost it as the reposting user.
+This is a supplement to the lecture we will have on the topic.
+
+### Getting Started
+
+We will achieve repinning by taking an existing post, duplicating it and reposting it as a different user.
 
 We can also add a few helper methods that will allow us to know whether or not a pin is original or a repost of another pin. This will be useful for showing an icon for reposted pins `@pin.is_repost?` and/or giving credit back to the original poster. The original poster can be accessed by `@pin.original_post.user` thanks to the `original_post` helper method we've added below.
 
