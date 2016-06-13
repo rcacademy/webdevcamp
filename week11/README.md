@@ -17,7 +17,7 @@
 
 ---
 
-### [Class 32 (w11d2): ](./w11d2)
+### [Class 32 (w11d2): Advanced Active Record Associations](./w11d2)
 
 ####  Lecture
 * Advanced Active Record Associations ([slides](./w11d2/slides/w11d2_lecture.pdf))
