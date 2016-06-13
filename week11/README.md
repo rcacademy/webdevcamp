@@ -11,6 +11,7 @@
 
 ### Exercise
 * [Add repinning to your Pinteresting project](./w11d1/exercises)
+* VIDEO: [Adding repinning](https://www.youtube.com/watch?v=OMeYP9LTGyM)
 
 ### Homework
 * Work on Pinteresting
