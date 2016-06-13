@@ -97,9 +97,17 @@ resources :pins do
 
 ### Defining the Like action in our PinsController
 
+Now that we have our route, we can map it to our like method in our PinsController.
+
+We are going to first build an empty object off of pin. You can do this with `@pin.likes.build` and pass in the parameters we are missing. Since we are building it off of pin, the `pin_id` is already populated so we just need to pass in the `user_id`.
+
+We then attempt to save the object. If it fails, it is likely going to be because of our uniqueness validation so we can display a useful message back to the user. We have told Rails that we should not be able to create more than one like with the same `pin_id` and `user_id`.
+
 ```ruby
 def like
+  # Define and build an empty "like" object attached to the pin
   @like = @pin.likes.build(user_id: current_user.id)
+  # attempt to save the like object
   if @like.save
     flash[:notice] =  "You liked a recording from #{@pin.user.username}!"
     redirect_to(pins_path)
@@ -113,12 +121,18 @@ end
 
 ### Adding a Like button to your view
 
+Let's try it out! Let's first add a like button or link to our views.
+
 ```html
   <%= link_to 'Like', like_pin_path(pin), method: :post %>
 ```
 
 ### Outputting the number of Likes on a pin
 
+Then finally, we can display the number of likes a pin has by accessing the `count` method on `pin.likes`.
+
 ```html
 <%= pluralize(pin.likes.count, "like") %>
 ```
+
+You could also use the `pin.liked_users` method to loop over each of the users and display a list of users that liked the pin.
