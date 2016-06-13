@@ -107,6 +107,8 @@ If we run `rake routes` in our terminal, we can see that we now have a `repost_p
 <%= link_to 'Repost', repost_pin_path(pin), method: :post, data: { confirm: 'Are you sure?' } %>
 ```
 
+It is best to only use this link when the user is logged in AND when the pin is owned by another user. It wouldn't make too much sense to repin your own content. Use the Ruby conditionals and variables from Devise to conditionally show this as necessary.
+
 ### Let's try it out
 
 Give is a go, you should now be able to repost pins in your project!
