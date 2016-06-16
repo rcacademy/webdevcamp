@@ -1,6 +1,8 @@
 # Adding Boards to Your Project
 
-This last part of the project is going to be open ended. A lot of what is required for
+This last part of the project is going to be open ended. A lot of what is required for adding boards is not new to us but we will be using it in a different way.
+
+You can see my example at [https://swholocron.herokuapp.com](swholocron.herokuapp.com).
 
 To generate our boards, we need to do some of the following:
 
