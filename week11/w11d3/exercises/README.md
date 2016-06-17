@@ -103,7 +103,7 @@ Now let's update our Repost link to not have a POST method.
 <%= link_to 'Repost', repost_pin_path(pin), class: 'pull-right' %>
 ```
 
-If we run this, we will find that we are missing a template. Let's go ahead and create **views/pins/show_repost.rb**.
+If we run this, we will find that we are missing a template. Let's go ahead and create **views/pins/show_repost.html.erb**.
 
 This view is going to show us a list of our current_user's boards. Just like we did above for creating pins in boards.
 
