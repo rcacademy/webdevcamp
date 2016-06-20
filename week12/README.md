@@ -9,7 +9,7 @@
 * Josh Fleming
 * Kuba Szerszen
 
-### Part 2: Getting Paid as a Developer
+### Part 2: Getting Paid as a Developer ([slides](./w12d1/slides/w12d1.pdf))
 * Building an online presence
 * Finding Jobs & Interviewing
 * Finding Freelance Work
