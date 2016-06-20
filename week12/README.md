@@ -6,6 +6,7 @@
 ### Part 1: Developer Share & Tell Speakers
 * Veronica Cannon
 * Erin Keith
+* Josh Fleming
 * Kuba Szerszen
 
 ### Part 2: Getting Paid as a Developer
@@ -22,7 +23,8 @@
 ### Class 35 (w11d2): Developer Q&A
 
 ### Part 1: Developer Share & Tell Speakers
-* Veronica Cannon
+* Colin Loretz
+* Christopher Baker
 * John Jusayan
 * CJ Avilla
 
