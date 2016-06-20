@@ -1,0 +1,42 @@
+# Week 12
+
+
+### Class 33 (w11d1): Extending our Models: Repinning
+
+### Part 1: Developer Share & Tell Speakers
+* Veronica Cannon
+* Erin Keith
+* Kuba Szerszen
+
+### Part 2: Getting Paid as a Developer
+* Building an online reputation
+* Finding Freelance Work
+* Finding Jobs & Interviewing
+
+### Homework
+* Polish Pinteresting Project
+* Prep for Demo Night :)
+
+---
+
+### Class 35 (w11d2): Developer Q&A
+
+### Part 1: Developer Share & Tell Speakers
+* Veronica Cannon
+* John Jusayan
+* CJ Avilla
+
+### Part 2: What's Next & Developer Tools
+* RC Academy Going Forward
+* Wide world of developer tools and jargon
+
+### Homework
+* Prep for Demo Night :)
+
+---
+
+### Class 36 (w12d3): Demo Night
+
+You did it! Time to show off what you've learned.
+
+![dnce](./images/man.gif)
