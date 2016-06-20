@@ -23,7 +23,7 @@
 ### Class 35 (w12d2): Developer Q&A
 
 ### Part 1: Developer Share & Tell Speakers
-* Colin Loretz
+* Darryl Rubarth
 * Christopher Baker
 * John Jusayan
 * CJ Avilla
