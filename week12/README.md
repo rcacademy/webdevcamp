@@ -1,7 +1,7 @@
 # Week 12
 
 
-### Class 33 (w11d1): Extending our Models: Repinning
+### Class 33 (w12d1): Extending our Models: Repinning
 
 ### Part 1: Developer Share & Tell Speakers
 * Veronica Cannon
@@ -20,7 +20,7 @@
 
 ---
 
-### Class 35 (w11d2): Developer Q&A
+### Class 35 (w12d2): Developer Q&A
 
 ### Part 1: Developer Share & Tell Speakers
 * Colin Loretz
