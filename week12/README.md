@@ -11,8 +11,8 @@
 
 ### Part 2: Getting Paid as a Developer
 * Building an online presence
-* Finding Freelance Work
 * Finding Jobs & Interviewing
+* Finding Freelance Work
 
 ### Homework
 * Polish Pinteresting Project
