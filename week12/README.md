@@ -10,7 +10,7 @@
 * Kuba Szerszen
 
 ### Part 2: Getting Paid as a Developer
-* Building an online reputation
+* Building an online presence
 * Finding Freelance Work
 * Finding Jobs & Interviewing
 
