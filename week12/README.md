@@ -30,7 +30,7 @@
 
 ### Part 2: What's Next & Developer Tools
 * RC Academy Going Forward
-* Wide world of developer tools and jargon
+* Wide world of developer tools & topics to know ([slides](./w12d2/slides/w12d2_lecture.pdf))
 
 ### Homework
 * Prep for Demo Night :)
