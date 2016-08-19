@@ -13,59 +13,19 @@ You might find it difficult to try and do the following week's work. If you do h
 
 Please do! There are no bad questions, you are encouraged to any questions you have as the course progresses. We might sometimes answer your question with more questions to help you arrive at the answer but that's all part of the learning process!
 
-## Instructors
-
-**Colin Loretz**  
-Web Developer & Instructor at Reno Collective  
-**email:** colin@renocollective.com  
-**slack:** colinloretz
-
-**Christopher Baker**  
-Software Developer at SPIN Games.  
-**email:** christopher+rc@hmudesign.com  
-**slack:** ta_christopher
-
-**Josh Fleming**  
-Web Developer & Owner of Revolt Media.  
-**email:** go+rc@revoltmedia.com  
-**slack:** joshfleming
-
-## Office Hours
-
-#### In-Person Office Hours
-
-I've outlined our office hours below. These are good times to work on projects and assignments as at least one of us will be at RC to help.
-
-If you have a specific need or question, go ahead and schedule a time slot by clicking on [Schedule!](https://calendly.com/colinloretz/officehours). Time slots are first come, first serve so take a look at what is available and priority will be given to someone who made an appointment.
-
-If a day is not available, it won't show up in the scheduling software. If you can't make these times, please let us know in Slack or via email and we can schedule office hours that work with your schedule.
-
-| Day       | Times | Location   |  Schedule |
-| ----------|-------|------------|-------------|
-| Saturdays | 9am - 12pm | Reno Collective | [Schedule!](https://calendly.com/colinloretz/officehours) |
-| Tuesdays (except 3rd Tuesdays) |  3pm - 7pm  | Reno Collective  | [Schedule!](https://calendly.com/colinloretz/officehours) |
-| Fridays  |  3pm - 6pm  | Reno Collective  | [Schedule!](https://calendly.com/colinloretz/officehours) |
-
-#### Online Office Hours via Slack
-We will be hosting online office hours frequently on Slack. Feel free to post questions in Slack and the Google Group to get assistance.
-
-## Resources
-* Buzzword Dictionary (TBA)
-* [More resources](./resources) to help you on your journey
-
 ## Schedule
 
 | Monday | Wednesday | Thursday |
 |--------|-----------|----------|
-| ~~4/4: [Introduction to HTML](./week1)~~    | ~~4/6: [HTML & Introduction CSS](./week1)~~    | ~~4/7: [HTML & CSS Project](./week1)~~      |
-| ~~4/11: [CSS Frameworks](./week2)~~ | ~~4/13: [Introduction to Javascript](./week2)~~ | ~~4/14: [Javascript & Bootstrap](./week2)~~ |
-| ~~[4/18: Javascript & Git/Github](./week3)~~  | ~~[4/20: Building a Todo List App](./week3)~~ | ~~[4/21: Building with JQuery](./week3)~~ |
-| ~~4/25: [jQuery & Javascript](./week4)~~ | ~~4/27: [Tic Tac Toe](./week4)~~ | ~~4/28: [APIs and jQuery](./week4)~~ |
-| ~~5/2: [Introduction to Ruby](./week5)~~ | ~~5/4: [Ruby Concepts](./week5)~~ | ~~5/5: [Using Ruby Gems](./week5)~~ |
-| ~~5/9: [Understanding Ruby](./week6)~~ | ~~5/11: [Intro to Rails: Blog](./week6)~~ | ~~5/12: [Ruby on Rails: Blog](./week6)~~ |
-| ~~5/16: [Models & Rails](./week7)~~ | ~~5/18: [Pinterest Project](./week7)~~ | ~~5/19: [Pinterest Project](./week7)~~ |
-| ~~5/23: [Pinterest Project](./week8)~~ | ~~5/25: [Pinterest Project](./week8)~~ | ~~5/26: [Pinterest Project](./week8)~~ |
-| ~~5/30: Office Hours @ Innevation~~ | 6/1: [Pinterest Project](./week9) | 6/2: [Pinterest](/.week9) |
+| 4/4: [Introduction to HTML](./week1)    | 4/6: [HTML & Introduction CSS](./week1)    | 4/7: [HTML & CSS Project](./week1)      |
+| 4/11: [CSS Frameworks](./week2) | 4/13: [Introduction to Javascript](./week2) | 4/14: [Javascript & Bootstrap](./week2) |
+| [4/18: Javascript & Git/Github](./week3)  | [4/20: Building a Todo List App](./week3) | [4/21: Building with JQuery](./week3) |
+| 4/25: [jQuery & Javascript](./week4) | 4/27: [Tic Tac Toe](./week4) | 4/28: [APIs and jQuery](./week4) |
+| 5/2: [Introduction to Ruby](./week5) | 5/4: [Ruby Concepts](./week5) | 5/5: [Using Ruby Gems](./week5) |
+| 5/9: [Understanding Ruby](./week6) | 5/11: [Intro to Rails: Blog](./week6) | 5/12: [Ruby on Rails: Blog](./week6) |
+| 5/16: [Models & Rails](./week7) | 5/18: [Pinterest Project](./week7) | 5/19: [Pinterest Project](./week7) |
+| 5/23: [Pinterest Project](./week8) | 5/25: [Pinterest Project](./week8) | 5/26: [Pinterest Project](./week8) |
+| 5/30: Office Hours @ Innevation | 6/1: [Pinterest Project](./week9) | 6/2: [Pinterest](/.week9) |
 | 6/6: Slack Bots | 6/8: Slack Bots | 6/9: Slack Bots |
 | 6/13: Pinterest  | 6/15: Pinterest | 6/16: Pinterest |
 | 6/20: Guests | 6/22: Portfolio & Interviewing Methods | 6/23: Demo Night!|
